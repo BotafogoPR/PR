@@ -209,12 +209,6 @@
       "ImageActionURL": "https://cdn.soccerwiki.org/images/player/2950-action.png"
     },
     {
-      "ID": 2974,
-      "Forename": "Ludovic",
-      "Surname": "BUTELLE",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/2974.png"
-    },
-    {
       "ID": 2989,
       "Forename": "Raúl",
       "Surname": "ALBIOL",
@@ -590,12 +584,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/6775.png"
     },
     {
-      "ID": 6871,
-      "Forename": "Benoît",
-      "Surname": "COSTIL",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/6871.png"
-    },
-    {
       "ID": 6874,
       "Forename": "Jean-Sylvain",
       "Surname": "BABIN",
@@ -780,12 +768,6 @@
       "Forename": "Kasper",
       "Surname": "SCHMEICHEL",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/8960.png"
-    },
-    {
-      "ID": 8994,
-      "Forename": "Lazaros",
-      "Surname": "CHRISTODOULOPOULOS",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/8994.png"
     },
     {
       "ID": 9008,
@@ -1562,12 +1544,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/14459.png"
     },
     {
-      "ID": 14467,
-      "Forename": "Lewwis",
-      "Surname": "SPENCE",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/14467_1360614471.jpg"
-    },
-    {
       "ID": 14468,
       "Forename": "Charlie",
       "Surname": "SHERINGHAM",
@@ -2043,18 +2019,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/16686.png"
     },
     {
-      "ID": 16750,
-      "Forename": "Jan",
-      "Surname": "VOSAHLÍK",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/16750.png"
-    },
-    {
-      "ID": 16766,
-      "Forename": "César",
-      "Surname": "DIAZ",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/16766.jpg"
-    },
-    {
       "ID": 16786,
       "Forename": "Martin",
       "Surname": "FILLO",
@@ -2181,12 +2145,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/17369.png"
     },
     {
-      "ID": 17388,
-      "Forename": "Karamoko",
-      "Surname": "CISSÉ",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/17388.png"
-    },
-    {
       "ID": 17392,
       "Forename": "Davide",
       "Surname": "RAFFAELLO",
@@ -2209,12 +2167,6 @@
       "Forename": "Igor",
       "Surname": "DJURIĆ",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/17407.png"
-    },
-    {
-      "ID": 17409,
-      "Forename": "Federico",
-      "Surname": "GERARDI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/17409.png"
     },
     {
       "ID": 17444,
@@ -2503,12 +2455,6 @@
       "Forename": "Léo",
       "Surname": "SILVA",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/18267.png"
-    },
-    {
-      "ID": 18268,
-      "Forename": "Jesus",
-      "Surname": "JONATHAS",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/18268.png"
     },
     {
       "ID": 18270,
@@ -2852,12 +2798,6 @@
       "Forename": "Giorgio",
       "Surname": "CONROTTO",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/19064.png"
-    },
-    {
-      "ID": 19093,
-      "Forename": "Mirko",
-      "Surname": "VALDIFIORI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/19093.png"
     },
     {
       "ID": 19095,
@@ -3647,12 +3587,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/21869.png"
     },
     {
-      "ID": 21879,
-      "Forename": "Răzvan",
-      "Surname": "OCHIROŞII",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/21879.png"
-    },
-    {
       "ID": 21894,
       "Forename": "Ciprian",
       "Surname": "DEAC",
@@ -3827,12 +3761,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/22335.png"
     },
     {
-      "ID": 22348,
-      "Forename": "Vittorio",
-      "Surname": "TRIARICO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/22348.png"
-    },
-    {
       "ID": 22350,
       "Forename": "Giuseppe",
       "Surname": "CACCAVALLO",
@@ -3867,12 +3795,6 @@
       "Forename": "Nicola",
       "Surname": "STRAMBELLI",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/22368.png"
-    },
-    {
-      "ID": 22371,
-      "Forename": "Mirko",
-      "Surname": "ERAMO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/22371.png"
     },
     {
       "ID": 22373,
@@ -5321,12 +5243,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/26398.png"
     },
     {
-      "ID": 26443,
-      "Forename": "Xiangchuang",
-      "Surname": "YAN",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/26443.jpg"
-    },
-    {
       "ID": 26510,
       "Forename": "Humberto",
       "Surname": "OSORIO",
@@ -6401,12 +6317,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/28904.png"
     },
     {
-      "ID": 28909,
-      "Forename": "Mario",
-      "Surname": "VRANČIĆ",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/28909.png"
-    },
-    {
       "ID": 28914,
       "Forename": "Mathias",
       "Surname": "FETSCH",
@@ -7013,12 +6923,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/30046.png"
     },
     {
-      "ID": 30049,
-      "Forename": "Salva",
-      "Surname": "SEVILLA",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/30049.png"
-    },
-    {
       "ID": 30063,
       "Forename": "Salvatore",
       "Surname": "CATURANO",
@@ -7127,12 +7031,6 @@
       "ImageURL": ""
     },
     {
-      "ID": 30208,
-      "Forename": "Vincenzo",
-      "Surname": "SARNO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/30208.png"
-    },
-    {
       "ID": 30242,
       "Forename": "Davis",
       "Surname": "CURIALE",
@@ -7155,12 +7053,6 @@
       "Forename": "Paolo",
       "Surname": "GINESTRA",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/30283.png"
-    },
-    {
-      "ID": 30286,
-      "Forename": "Fabio",
-      "Surname": "LUCIONI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/30286.png"
     },
     {
       "ID": 30294,
@@ -7619,12 +7511,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/30986.png"
     },
     {
-      "ID": 31016,
-      "Forename": "Iván",
-      "Surname": "MARCANO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/31016.png"
-    },
-    {
       "ID": 31044,
       "Forename": "Craig",
       "Surname": "LINDFIELD",
@@ -8069,12 +7955,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/31713.png"
     },
     {
-      "ID": 31718,
-      "Forename": "Soslan",
-      "Surname": "DZHANAEV",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/31718.png"
-    },
-    {
       "ID": 31723,
       "Forename": "Jay",
       "Surname": "RODRIGUEZ",
@@ -8163,12 +8043,6 @@
       "Forename": "Romain",
       "Surname": "THOMAS",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/31782.png"
-    },
-    {
-      "ID": 31789,
-      "Forename": "Martín",
-      "Surname": "GALVÁN",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/31789.jpg"
     },
     {
       "ID": 31792,
@@ -11022,12 +10896,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/35288.png"
     },
     {
-      "ID": 35297,
-      "Forename": "Manuel",
-      "Surname": "SCHÄFFLER",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/35297.jpg"
-    },
-    {
       "ID": 35299,
       "Forename": "Nicolae",
       "Surname": "CALANCEA",
@@ -11634,12 +11502,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/35878.png"
     },
     {
-      "ID": 35885,
-      "Forename": "Andújar",
-      "Surname": "COKE",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/35885.png"
-    },
-    {
       "ID": 35891,
       "Forename": "Mohamed",
       "Surname": "DIAMÉ",
@@ -11736,12 +11598,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/36008.png"
     },
     {
-      "ID": 36009,
-      "Forename": "Edu",
-      "Surname": "BEDIA",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/36009.png"
-    },
-    {
       "ID": 36020,
       "Forename": "Andrea",
       "Surname": "RISPOLI",
@@ -11772,12 +11628,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/36036.png"
     },
     {
-      "ID": 36039,
-      "Forename": "Pierluigi",
-      "Surname": "FRATTALI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/36039.png"
-    },
-    {
       "ID": 36042,
       "Forename": "Jonathan",
       "Surname": "LÓPEZ",
@@ -11794,12 +11644,6 @@
       "Forename": "Keko",
       "Surname": "GONTÁN",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/36052.png"
-    },
-    {
-      "ID": 36054,
-      "Forename": "Daniele",
-      "Surname": "GASPARETTO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/36054.png"
     },
     {
       "ID": 36060,
@@ -12059,12 +11903,6 @@
       "Forename": "Timothée",
       "Surname": "KOLODZIEJCZAK",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/36354.png"
-    },
-    {
-      "ID": 36373,
-      "Forename": "Rodolph",
-      "Surname": "AUSTIN",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/36373.png"
     },
     {
       "ID": 36375,
@@ -14663,18 +14501,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/39269.png"
     },
     {
-      "ID": 39274,
-      "Forename": "Riccardo",
-      "Surname": "SAPONARA",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/39274.png"
-    },
-    {
-      "ID": 39277,
-      "Forename": "Francesco",
-      "Surname": "LUONI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/39277.png"
-    },
-    {
       "ID": 39279,
       "Forename": "Francesco",
       "Surname": "DI TACCHIO",
@@ -14973,12 +14799,6 @@
       "Forename": "José Alberto",
       "Surname": "CAÑAS",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/39485.jpg"
-    },
-    {
-      "ID": 39487,
-      "Forename": "Jesús",
-      "Surname": "RUEDA",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/39487.jpg"
     },
     {
       "ID": 39489,
@@ -15971,12 +15791,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/40170.jpg"
     },
     {
-      "ID": 40171,
-      "Forename": "Ning",
-      "Surname": "JIANG",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/40171.jpg"
-    },
-    {
       "ID": 40192,
       "Forename": "Wei",
       "Surname": "WU",
@@ -16053,12 +15867,6 @@
       "Forename": "Sung-Joon",
       "Surname": "KIM",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/40296.png"
-    },
-    {
-      "ID": 40307,
-      "Forename": "Yong-Rae",
-      "Surname": "LEE",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/40307.png"
     },
     {
       "ID": 40316,
@@ -16701,12 +16509,6 @@
       "Forename": "Juan",
       "Surname": "MURIEL",
       "ImageURL": ""
-    },
-    {
-      "ID": 40837,
-      "Forename": "Azamat",
-      "Surname": "BAYMATOV",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/40837.png"
     },
     {
       "ID": 40842,
@@ -18485,12 +18287,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/42088.png"
     },
     {
-      "ID": 42089,
-      "Forename": "Kian",
-      "Surname": "HANSEN",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/42089.png"
-    },
-    {
       "ID": 42090,
       "Forename": "Thomas",
       "Surname": "DELANEY",
@@ -18653,12 +18449,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/42210.png"
     },
     {
-      "ID": 42226,
-      "Forename": "Julian",
-      "Surname": "SCHAUERTE",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/42226.png"
-    },
-    {
       "ID": 42228,
       "Forename": "Mario",
       "Surname": "POKAR",
@@ -18785,12 +18575,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/42295.png"
     },
     {
-      "ID": 42298,
-      "Forename": "Kevin",
-      "Surname": "LACRUZ",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/42298.png"
-    },
-    {
       "ID": 42299,
       "Forename": "Joe",
       "Surname": "BENNETT",
@@ -18879,12 +18663,6 @@
       "Forename": "Youssouf",
       "Surname": "TRAORE",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/42330_1266167610.jpg"
-    },
-    {
-      "ID": 42334,
-      "Forename": "Carlos",
-      "Surname": "DAVID",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/42334.jpg"
     },
     {
       "ID": 42344,
@@ -19596,7 +19374,7 @@
     },
     {
       "ID": 42841,
-      "Forename": "Dai",
+      "Forename": "David",
       "Surname": "CORNELL",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/42841.png"
     },
@@ -19653,12 +19431,6 @@
       "Forename": "Savvas",
       "Surname": "GENTSOGLOU",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/42859.png"
-    },
-    {
-      "ID": 42861,
-      "Forename": "Isaac",
-      "Surname": "BECERRA",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/42861.png"
     },
     {
       "ID": 42863,
@@ -20099,12 +19871,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/43250.png"
     },
     {
-      "ID": 43251,
-      "Forename": "García",
-      "Surname": "FOFO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/43251.jpg"
-    },
-    {
       "ID": 43252,
       "Forename": "Ángel",
       "Surname": "BERNABÉ",
@@ -20187,12 +19953,6 @@
       "Forename": "Ciro",
       "Surname": "IMMOBILE",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/43289.png"
-    },
-    {
-      "ID": 43290,
-      "Forename": "Filippo",
-      "Surname": "SCARDINA",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/43290.png"
     },
     {
       "ID": 43291,
@@ -20321,12 +20081,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/43327.png"
     },
     {
-      "ID": 43328,
-      "Forename": "Giuseppe",
-      "Surname": "RIZZO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/43328.png"
-    },
-    {
       "ID": 43330,
       "Forename": "Fabian",
       "Surname": "GIEFER",
@@ -20397,12 +20151,6 @@
       "Forename": "Giovanni",
       "Surname": "FORMICONI",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/43363.png"
-    },
-    {
-      "ID": 43367,
-      "Forename": "Ramos",
-      "Surname": "ÉMERSON",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/43367.jpg"
     },
     {
       "ID": 43369,
@@ -20487,12 +20235,6 @@
       "Forename": "Tommaso",
       "Surname": "SQUILLACE",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/43404.png"
-    },
-    {
-      "ID": 43405,
-      "Forename": "Paolo",
-      "Surname": "TORNAGHI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/43405.png"
     },
     {
       "ID": 43407,
@@ -20640,12 +20382,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/43519.png"
     },
     {
-      "ID": 43520,
-      "Forename": "Oleksandr",
-      "Surname": "VOLKOV",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/43520.png"
-    },
-    {
       "ID": 43525,
       "Forename": "Tom",
       "Surname": "PARKES",
@@ -20662,12 +20398,6 @@
       "Forename": "Aziz",
       "Surname": "BEHICH",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/43530.png"
-    },
-    {
-      "ID": 43536,
-      "Forename": "Marco",
-      "Surname": "ROJAS",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/43536.png"
     },
     {
       "ID": 43537,
@@ -21895,12 +21625,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/44192_1318609749.jpg"
     },
     {
-      "ID": 44194,
-      "Forename": "Hernán",
-      "Surname": "NOVICK",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/44194.png"
-    },
-    {
       "ID": 44195,
       "Forename": "Álvaro",
       "Surname": "BRUN",
@@ -22531,12 +22255,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/44569.png"
     },
     {
-      "ID": 44572,
-      "Forename": "Mathias",
-      "Surname": "AUTRET",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/44572.png"
-    },
-    {
       "ID": 44573,
       "Forename": "Lennard",
       "Surname": "SOWAH",
@@ -22769,12 +22487,6 @@
       "Forename": "Mathieu",
       "Surname": "PEYBERNES",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/44671.png"
-    },
-    {
-      "ID": 44675,
-      "Forename": "Ihor",
-      "Surname": "CHAYKOVSKY",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/44675.png"
     },
     {
       "ID": 44676,
@@ -24205,12 +23917,6 @@
       "Forename": "Okay",
       "Surname": "YOKUSLU",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/45334.png"
-    },
-    {
-      "ID": 45336,
-      "Forename": "Krystian",
-      "Surname": "PIECZARA",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/45336.png"
     },
     {
       "ID": 45338,
@@ -26548,12 +26254,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/46436.jpg"
     },
     {
-      "ID": 46437,
-      "Forename": "Andrea",
-      "Surname": "DE VITO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/46437.png"
-    },
-    {
       "ID": 46438,
       "Forename": "Orhan",
       "Surname": "GÜLLE",
@@ -26763,12 +26463,6 @@
       "Forename": "Yu",
       "Surname": "KOBAYASHI",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/46526.png"
-    },
-    {
-      "ID": 46530,
-      "Forename": "Carlos",
-      "Surname": "INDIANO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/46530.png"
     },
     {
       "ID": 46533,
@@ -27714,12 +27408,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/46929.png"
     },
     {
-      "ID": 46933,
-      "Forename": "Rubén",
-      "Surname": "RAYO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/46933.jpg"
-    },
-    {
       "ID": 46934,
       "Forename": "Ashley",
       "Surname": "HEMMINGS",
@@ -27990,12 +27678,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/47044.png"
     },
     {
-      "ID": 47045,
-      "Forename": "Victor",
-      "Surname": "VÁZQUEZ",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/47045_1342771232.jpg"
-    },
-    {
       "ID": 47046,
       "Forename": "Linpeng",
       "Surname": "ZHANG",
@@ -28066,12 +27748,6 @@
       "Forename": "Luís",
       "Surname": "LEAL",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/47072.png"
-    },
-    {
-      "ID": 47080,
-      "Forename": "Fernández",
-      "Surname": "JORGE",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/47080_1299570592.jpg"
     },
     {
       "ID": 47081,
@@ -28532,8 +28208,8 @@
     },
     {
       "ID": 47283,
-      "Forename": "Pereira",
-      "Surname": "NALDO",
+      "Forename": "Naldo",
+      "Surname": "PEREIRA",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/47283.png"
     },
     {
@@ -29059,18 +28735,6 @@
       "ImageURL": ""
     },
     {
-      "ID": 47539,
-      "Forename": "Gianluca",
-      "Surname": "LAURENTI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/47539.png"
-    },
-    {
-      "ID": 47553,
-      "Forename": "Francesco",
-      "Surname": "GAGLIARDI",
-      "ImageURL": ""
-    },
-    {
       "ID": 47557,
       "Forename": "Nicola",
       "Surname": "BIZZOTTO",
@@ -29417,12 +29081,6 @@
       "Forename": "Aljaž",
       "Surname": "STRUNA",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/47848.png"
-    },
-    {
-      "ID": 47854,
-      "Forename": "Salif",
-      "Surname": "SANÉ",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/47854.png"
     },
     {
       "ID": 47856,
@@ -30319,12 +29977,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/48289.png"
     },
     {
-      "ID": 48292,
-      "Forename": "Ryan",
-      "Surname": "BOWMAN",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/48292.png"
-    },
-    {
       "ID": 48295,
       "Forename": "Domenico",
       "Surname": "FRANCO",
@@ -30689,12 +30341,6 @@
       "Forename": "Mirko",
       "Surname": "CARRETTA",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/48469.png"
-    },
-    {
-      "ID": 48470,
-      "Forename": "Luca",
-      "Surname": "CEPPITELLI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/48470.png"
     },
     {
       "ID": 48471,
@@ -31393,12 +31039,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/48792.png"
     },
     {
-      "ID": 48794,
-      "Forename": "Alessandro",
-      "Surname": "CESARINI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/48794.png"
-    },
-    {
       "ID": 48795,
       "Forename": "Lorenzo",
       "Surname": "LOLLO",
@@ -31513,12 +31153,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/48848.png"
     },
     {
-      "ID": 48852,
-      "Forename": "Alfredo",
-      "Surname": "MEJÍA",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/48852.png"
-    },
-    {
       "ID": 48855,
       "Forename": "Derlis",
       "Surname": "ORUÉ",
@@ -31607,12 +31241,6 @@
       "Forename": "Fredrik",
       "Surname": "ULVESTAD",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/48934.png"
-    },
-    {
-      "ID": 48937,
-      "Forename": "Davide",
-      "Surname": "LUPPI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/48937.png"
     },
     {
       "ID": 48938,
@@ -37522,8 +37150,8 @@
     },
     {
       "ID": 51690,
-      "Forename": "Samson",
-      "Surname": "OLALEYE",
+      "Forename": "Olaleye",
+      "Surname": "SAMSON",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/51690_1358948686.jpg"
     },
     {
@@ -37633,12 +37261,6 @@
       "Forename": "Florian",
       "Surname": "TAULEMESSE",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/51735.png"
-    },
-    {
-      "ID": 51737,
-      "Forename": "Cristian",
-      "Surname": "FERNÁNDEZ",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/51737.jpg"
     },
     {
       "ID": 51741,
@@ -38089,12 +37711,6 @@
       "Forename": "Florian",
       "Surname": "HARTHERZ",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/51902.png"
-    },
-    {
-      "ID": 51903,
-      "Forename": "Tommie",
-      "Surname": "HOBAN",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/51903.png"
     },
     {
       "ID": 51904,
@@ -38565,12 +38181,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/52047.png"
     },
     {
-      "ID": 52050,
-      "Forename": "Sánchez",
-      "Surname": "TEKIO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/52050_1315389337.jpg"
-    },
-    {
       "ID": 52051,
       "Forename": "Lucas",
       "Surname": "OCAMPOS",
@@ -38761,12 +38371,6 @@
       "Forename": "Maksim",
       "Surname": "ZHITNEV",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/52141.jpg"
-    },
-    {
-      "ID": 52143,
-      "Forename": "Lucian",
-      "Surname": "CAZAN",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/52143.png"
     },
     {
       "ID": 52145,
@@ -38971,12 +38575,6 @@
       "Forename": "Sergio",
       "Surname": "RICO",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/52233.png"
-    },
-    {
-      "ID": 52235,
-      "Forename": "Aitor",
-      "Surname": "MONROY",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/52235.png"
     },
     {
       "ID": 52236,
@@ -39976,12 +39574,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/52718.png"
     },
     {
-      "ID": 52723,
-      "Forename": "Jong-Gook",
-      "Surname": "KIM",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/52723.jpg"
-    },
-    {
       "ID": 52729,
       "Forename": "Filippo",
       "Surname": "PERUCCHINI",
@@ -40442,12 +40034,6 @@
       "Forename": "Julien",
       "Surname": "TADROWSKI",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/52925.png"
-    },
-    {
-      "ID": 52927,
-      "Forename": "Vojtěch",
-      "Surname": "HADAŠČOK",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/52927.png"
     },
     {
       "ID": 52929,
@@ -41212,12 +40798,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/53286.png"
     },
     {
-      "ID": 53287,
-      "Forename": "Andrés",
-      "Surname": "LLORIAN",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/53287.jpg"
-    },
-    {
       "ID": 53288,
       "Forename": "Michael",
       "Surname": "KEANE",
@@ -41480,12 +41060,6 @@
       "Forename": "Andre",
       "Surname": "BLACKMAN",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/53368.png"
-    },
-    {
-      "ID": 53370,
-      "Forename": "Arne",
-      "Surname": "NAUDTS",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/53370.png"
     },
     {
       "ID": 53373,
@@ -43279,12 +42853,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/54091.png"
     },
     {
-      "ID": 54097,
-      "Forename": "Abel",
-      "Surname": "MOLINERO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/54097.png"
-    },
-    {
       "ID": 54098,
       "Forename": "Mickey",
       "Surname": "DEMETRIOU",
@@ -43718,8 +43286,8 @@
     },
     {
       "ID": 54269,
-      "Forename": "Mota",
-      "Surname": "PAULINHO",
+      "Forename": "Paulinho",
+      "Surname": "MOTA",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/54269.png"
     },
     {
@@ -43886,8 +43454,8 @@
     },
     {
       "ID": 54339,
-      "Forename": "Ferreira",
-      "Surname": "MARCELO",
+      "Forename": "Marcelo",
+      "Surname": "FERREIRA",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/54339.png"
     },
     {
@@ -44107,12 +43675,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/54448.png"
     },
     {
-      "ID": 54451,
-      "Forename": "Maxwell",
-      "Surname": "ACOSTY",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/54451.png"
-    },
-    {
       "ID": 54452,
       "Forename": "Conor",
       "Surname": "MCALENY",
@@ -44155,12 +43717,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/54466.png"
     },
     {
-      "ID": 54467,
-      "Forename": "Jakub",
-      "Surname": "BARTKOWSKI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/54467.png"
-    },
-    {
       "ID": 54468,
       "Forename": "Radoslav",
       "Surname": "TSONEV",
@@ -44197,12 +43753,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/54479.jpg"
     },
     {
-      "ID": 54480,
-      "Forename": "Jordan",
-      "Surname": "BROWN",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/54480.png"
-    },
-    {
       "ID": 54481,
       "Forename": "Haritz",
       "Surname": "ALBISUA",
@@ -44225,12 +43775,6 @@
       "Forename": "Alexander",
       "Surname": "LÓPEZ",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/54485.png"
-    },
-    {
-      "ID": 54486,
-      "Forename": "Danny",
-      "Surname": "BLUM",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/54486.png"
     },
     {
       "ID": 54488,
@@ -45776,12 +45320,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/55072.png"
     },
     {
-      "ID": 55073,
-      "Forename": "Javi",
-      "Surname": "REY",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/55073.png"
-    },
-    {
       "ID": 55075,
       "Forename": "Filip",
       "Surname": "KLJAJIĆ",
@@ -47114,12 +46652,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/55535.png"
     },
     {
-      "ID": 55536,
-      "Forename": "Josu",
-      "Surname": "OZKOIDI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/55536.png"
-    },
-    {
       "ID": 55538,
       "Forename": "Dino",
       "Surname": "ŠTIGLEC",
@@ -47264,12 +46796,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/55598.jpg"
     },
     {
-      "ID": 55599,
-      "Forename": "Fran",
-      "Surname": "CARNICER",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/55599.png"
-    },
-    {
       "ID": 55601,
       "Forename": "Álvaro",
       "Surname": "PEÑA",
@@ -47334,12 +46860,6 @@
       "Forename": "Yevgen",
       "Surname": "MAKARENKO",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/55621.png"
-    },
-    {
-      "ID": 55626,
-      "Forename": "Unai",
-      "Surname": "ALBIZUA",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/55626.png"
     },
     {
       "ID": 55632,
@@ -47434,7 +46954,7 @@
     {
       "ID": 55651,
       "Forename": "Cenk",
-      "Surname": "ŞAHİN",
+      "Surname": "ŞAHIN",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/55651.png"
     },
     {
@@ -51216,18 +50736,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/57218.png"
     },
     {
-      "ID": 57220,
-      "Forename": "Rubén",
-      "Surname": "GARCÉS",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/57220_1357998425.jpg"
-    },
-    {
-      "ID": 57224,
-      "Forename": "Emmanuel",
-      "Surname": "OMGBA",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/57224.png"
-    },
-    {
       "ID": 57225,
       "Forename": "David",
       "Surname": "JUNCÀ",
@@ -51510,12 +51018,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/57358.png"
     },
     {
-      "ID": 57361,
-      "Forename": "Xavi",
-      "Surname": "GINARD",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/57361.png"
-    },
-    {
       "ID": 57365,
       "Forename": "Francesc",
       "Surname": "FULLANA",
@@ -51556,12 +51058,6 @@
       "Forename": "Eneko",
       "Surname": "EIZMENDI",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/57403.png"
-    },
-    {
-      "ID": 57409,
-      "Forename": "Sergio",
-      "Surname": "GARBAN",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/57409_1342857630.jpg"
     },
     {
       "ID": 57414,
@@ -51606,22 +51102,10 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/57431.png"
     },
     {
-      "ID": 57439,
-      "Forename": "Jesús",
-      "Surname": "ARIDANE",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/57439.png"
-    },
-    {
       "ID": 57445,
       "Forename": "Alejandro",
       "Surname": "HOHBERG",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/57445.png"
-    },
-    {
-      "ID": 57454,
-      "Forename": "Mikel",
-      "Surname": "MÉNDEZ",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/57454.jpg"
     },
     {
       "ID": 57460,
@@ -51652,12 +51136,6 @@
       "Forename": "Alexander",
       "Surname": "SZYMANOWSKI",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/57496.png"
-    },
-    {
-      "ID": 57497,
-      "Forename": "Daniel",
-      "Surname": "GARCIA",
-      "ImageURL": ""
     },
     {
       "ID": 57501,
@@ -51894,34 +51372,16 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/57625.png"
     },
     {
-      "ID": 57630,
-      "Forename": "Andrés",
-      "Surname": "GONZÁLEZ",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/57630.jpg"
-    },
-    {
       "ID": 57633,
       "Forename": "Carlos",
       "Surname": "DE LA NAVA",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/57633.png"
     },
     {
-      "ID": 57634,
-      "Forename": "Jesús",
-      "Surname": "PIOJO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/57634_1356858002.jpg"
-    },
-    {
       "ID": 57635,
       "Forename": "Sergio",
       "Surname": "RAMOS",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/57635.jpg"
-    },
-    {
-      "ID": 57638,
-      "Forename": "Álvaro",
-      "Surname": "COQUE",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/57638_1359450014.jpg"
     },
     {
       "ID": 57640,
@@ -51946,12 +51406,6 @@
       "Forename": "Emiliano",
       "Surname": "TERZAGHI",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/57668.png"
-    },
-    {
-      "ID": 57671,
-      "Forename": "Miguel",
-      "Surname": "DEL RÍO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/57671.jpg"
     },
     {
       "ID": 57673,
@@ -52152,12 +51606,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/57765.jpg"
     },
     {
-      "ID": 57777,
-      "Forename": "Aitor",
-      "Surname": "ALDALUR",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/57777.png"
-    },
-    {
       "ID": 57781,
       "Forename": "Odei",
       "Surname": "ONAINDIA",
@@ -52198,12 +51646,6 @@
       "Forename": "Marcos",
       "Surname": "PÉREZ",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/57836.jpg"
-    },
-    {
-      "ID": 57838,
-      "Forename": "Álex",
-      "Surname": "SÁNCHEZ",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/57838.png"
     },
     {
       "ID": 57845,
@@ -52368,12 +51810,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/57973.jpg"
     },
     {
-      "ID": 57975,
-      "Forename": "Felipe",
-      "Surname": "CORTÉS",
-      "ImageURL": ""
-    },
-    {
       "ID": 57981,
       "Forename": "Nenatarvicius",
       "Surname": "MIKE",
@@ -52402,12 +51838,6 @@
       "Forename": "Edgar",
       "Surname": "HERNÁNDEZ",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/58009.png"
-    },
-    {
-      "ID": 58012,
-      "Forename": "Marcos",
-      "Surname": "DE LA ESPADA",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/58012.jpg"
     },
     {
       "ID": 58015,
@@ -52450,12 +51880,6 @@
       "Forename": "Ezequiel",
       "Surname": "ROJAS",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/58030.jpg"
-    },
-    {
-      "ID": 58034,
-      "Forename": "Ximo",
-      "Surname": "FORNER",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/58034.png"
     },
     {
       "ID": 58046,
@@ -52524,12 +51948,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/58084.jpg"
     },
     {
-      "ID": 58095,
-      "Forename": "Javi",
-      "Surname": "SÁNCHEZ",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/58095.jpg"
-    },
-    {
       "ID": 58097,
       "Forename": "Lolo",
       "Surname": "GUERRERO",
@@ -52582,12 +52000,6 @@
       "Forename": "Jesús",
       "Surname": "ANTOÑITO",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/58151.png"
-    },
-    {
-      "ID": 58155,
-      "Forename": "García",
-      "Surname": "MIGUE",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/58155_1344533310.jpg"
     },
     {
       "ID": 58158,
@@ -53251,12 +52663,6 @@
       "ImageURL": ""
     },
     {
-      "ID": 58410,
-      "Forename": "Antonio",
-      "Surname": "DI EMMA",
-      "ImageURL": ""
-    },
-    {
       "ID": 58412,
       "Forename": "Gabriele",
       "Surname": "FONDI",
@@ -53417,12 +52823,6 @@
       "Forename": "Giacomo",
       "Surname": "ROSAIA",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/58470.png"
-    },
-    {
-      "ID": 58471,
-      "Forename": "Marco",
-      "Surname": "TOGNONI",
-      "ImageURL": ""
     },
     {
       "ID": 58472,
@@ -54251,12 +53651,6 @@
       "Forename": "Ben",
       "Surname": "ZOLINSKI",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/58815.png"
-    },
-    {
-      "ID": 58816,
-      "Forename": "Manfred",
-      "Surname": "STARKE",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/58816.png"
     },
     {
       "ID": 58818,
@@ -55699,12 +55093,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/59468.png"
     },
     {
-      "ID": 59470,
-      "Forename": "Maximilian",
-      "Surname": "THIEL",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/59470.png"
-    },
-    {
       "ID": 59471,
       "Forename": "Fatjon",
       "Surname": "CELANI",
@@ -56425,12 +55813,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/59754.png"
     },
     {
-      "ID": 59755,
-      "Forename": "Raúl",
-      "Surname": "GONZÁLEZ",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/59755.jpg"
-    },
-    {
       "ID": 59764,
       "Forename": "Muziwandile",
       "Surname": "KHWELA",
@@ -57049,12 +56431,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/60133.png"
     },
     {
-      "ID": 60134,
-      "Forename": "Lukas",
-      "Surname": "RAEDER",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/60134.png"
-    },
-    {
       "ID": 60135,
       "Forename": "Adam",
       "Surname": "THOMAS",
@@ -57071,12 +56447,6 @@
       "Forename": "Marc",
       "Surname": "SIRERA",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/60137_1347696005.jpg"
-    },
-    {
-      "ID": 60138,
-      "Forename": "Álvaro",
-      "Surname": "CLAUSÍ",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/60138.png"
     },
     {
       "ID": 60139,
@@ -57185,12 +56555,6 @@
       "Forename": "Orhan",
       "Surname": "OVACIKLI",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/60234.png"
-    },
-    {
-      "ID": 60237,
-      "Forename": "Blaz",
-      "Surname": "VRHOVEC",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/60237.png"
     },
     {
       "ID": 60241,
@@ -57437,12 +56801,6 @@
       "Forename": "Cristopher",
       "Surname": "PENROZ",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/60356.jpg"
-    },
-    {
-      "ID": 60357,
-      "Forename": "Vázquez",
-      "Surname": "CHULI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/60357.png"
     },
     {
       "ID": 60360,
@@ -58219,12 +57577,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/60842.png"
     },
     {
-      "ID": 60843,
-      "Forename": "Marco",
-      "Surname": "MARIANI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/60843.jpg"
-    },
-    {
       "ID": 60844,
       "Forename": "Nathaniel",
       "Surname": "CHALOBAH",
@@ -58643,12 +57995,6 @@
       "Forename": "Marco",
       "Surname": "CUOMO",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/61009.jpg"
-    },
-    {
-      "ID": 61010,
-      "Forename": "Rodríguez",
-      "Surname": "LULU",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/61010_1354897834.jpg"
     },
     {
       "ID": 61011,
@@ -61338,12 +60684,6 @@
       "Forename": "Kevin",
       "Surname": "MALGET",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/62253.png"
-    },
-    {
-      "ID": 62257,
-      "Forename": "Carlos",
-      "Surname": "SELFA",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/62257.png"
     },
     {
       "ID": 62258,
@@ -65739,12 +65079,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/64102.png"
     },
     {
-      "ID": 64103,
-      "Forename": "Yann",
-      "Surname": "BENEDICK",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/64103.png"
-    },
-    {
       "ID": 64106,
       "Forename": "Christophe",
       "Surname": "VINCENT",
@@ -65986,7 +65320,7 @@
     },
     {
       "ID": 64162,
-      "Forename": "Ioannis",
+      "Forename": "Giannis",
       "Surname": "GELIOS",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/64162.png"
     },
@@ -66217,12 +65551,6 @@
       "Forename": "Erik",
       "Surname": "ZENGA",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/64219.png"
-    },
-    {
-      "ID": 64220,
-      "Forename": "Kolja",
-      "Surname": "PUSCH",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/64220.png"
     },
     {
       "ID": 64221,
@@ -66847,12 +66175,6 @@
       "Forename": "Igor",
       "Surname": "VUJAČIĆ",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/64386.png"
-    },
-    {
-      "ID": 64387,
-      "Forename": "Jesús",
-      "Surname": "MOYANO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/64387_1362042012.jpg"
     },
     {
       "ID": 64389,
@@ -67883,18 +67205,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/64755.png"
     },
     {
-      "ID": 64759,
-      "Forename": "Eder",
-      "Surname": "DÍEZ",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/64759.jpg"
-    },
-    {
-      "ID": 64761,
-      "Forename": "Ferrán",
-      "Surname": "GINER",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/64761.jpg"
-    },
-    {
       "ID": 64771,
       "Forename": "Aleksandar",
       "Surname": "SEDLAR",
@@ -67935,12 +67245,6 @@
       "Forename": "Yohanes",
       "Surname": "PAHABOL",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/64787.png"
-    },
-    {
-      "ID": 64788,
-      "Forename": "André",
-      "Surname": "SIMÕES",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/64788.png"
     },
     {
       "ID": 64790,
@@ -69327,12 +68631,6 @@
       "Forename": "Nenad",
       "Surname": "GAVRIĆ",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/65320.png"
-    },
-    {
-      "ID": 65322,
-      "Forename": "Dimitrios",
-      "Surname": "FERFELIS",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/65322.jpg"
     },
     {
       "ID": 65323,
@@ -70757,12 +70055,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/65903.jpg"
     },
     {
-      "ID": 65907,
-      "Forename": "Basem",
-      "Surname": "ALI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/65907.png"
-    },
-    {
       "ID": 65909,
       "Forename": "Mohamed",
       "Surname": "FAROUK",
@@ -71188,12 +70480,6 @@
       "Forename": "Preben",
       "Surname": "DE MAN",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/66104.jpg"
-    },
-    {
-      "ID": 66113,
-      "Forename": "Wouter",
-      "Surname": "VOSTERS",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/66113.png"
     },
     {
       "ID": 66116,
@@ -77738,12 +77024,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/68620.png"
     },
     {
-      "ID": 68623,
-      "Forename": "David",
-      "Surname": "FITZPATRICK",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/68623.png"
-    },
-    {
       "ID": 68625,
       "Forename": "Osayamen",
       "Surname": "OSAWE",
@@ -78234,12 +77514,6 @@
       "Forename": "David",
       "Surname": "MARTÍN",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/68748.png"
-    },
-    {
-      "ID": 68749,
-      "Forename": "Luis",
-      "Surname": "VALCARCE",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/68749.png"
     },
     {
       "ID": 68750,
@@ -78974,12 +78248,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/68956.jpg"
     },
     {
-      "ID": 68957,
-      "Forename": "Joaquín",
-      "Surname": "ARZURA",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/68957.png"
-    },
-    {
       "ID": 68958,
       "Forename": "Lucas",
       "Surname": "PÉREZ GODOY",
@@ -79412,12 +78680,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/69112.jpg"
     },
     {
-      "ID": 69118,
-      "Forename": "Óscar",
-      "Surname": "ARROYO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/69118.jpg"
-    },
-    {
       "ID": 69119,
       "Forename": "Caio",
       "Surname": "SECCO",
@@ -79452,12 +78714,6 @@
       "Forename": "Oumar",
       "Surname": "DIAKHITÉ",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/69126.png"
-    },
-    {
-      "ID": 69129,
-      "Forename": "Luca",
-      "Surname": "CRESCENZI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/69129.png"
     },
     {
       "ID": 69130,
@@ -80888,12 +80144,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/69640.png"
     },
     {
-      "ID": 69642,
-      "Forename": "Giancarlo",
-      "Surname": "LISAI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/69642.jpg"
-    },
-    {
       "ID": 69644,
       "Forename": "Mbongeni",
       "Surname": "GUMEDE",
@@ -81048,12 +80298,6 @@
       "Forename": "Javi",
       "Surname": "BARRIO",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/69704.png"
-    },
-    {
-      "ID": 69705,
-      "Forename": "Mariano",
-      "Surname": "SANZ",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/69705.jpg"
     },
     {
       "ID": 69707,
@@ -81642,12 +80886,6 @@
       "Forename": "Jordan",
       "Surname": "SÁNCHEZ",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/69919.png"
-    },
-    {
-      "ID": 69920,
-      "Forename": "Carlos",
-      "Surname": "MORENO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/69920.png"
     },
     {
       "ID": 69928,
@@ -82332,12 +81570,6 @@
       "Forename": "Mikey",
       "Surname": "LOPEZ",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/70216.png"
-    },
-    {
-      "ID": 70218,
-      "Forename": "Viktor",
-      "Surname": "DMITRENKO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/70218.jpg"
     },
     {
       "ID": 70219,
@@ -83220,12 +82452,6 @@
       "Forename": "Redeem",
       "Surname": "TLANG",
       "ImageURL": ""
-    },
-    {
-      "ID": 70501,
-      "Forename": "Lucas",
-      "Surname": "SOUZA",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/70501.png"
     },
     {
       "ID": 70502,
@@ -85978,12 +85204,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/71343.png"
     },
     {
-      "ID": 71344,
-      "Forename": "Ange",
-      "Surname": "GNALEKO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/71344.jpg"
-    },
-    {
       "ID": 71347,
       "Forename": "Yacine",
       "Surname": "BAMMOU",
@@ -86500,12 +85720,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/71534.png"
     },
     {
-      "ID": 71535,
-      "Forename": "Ángel",
-      "Surname": "MARTÍNEZ",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/71535.png"
-    },
-    {
       "ID": 71536,
       "Forename": "Diego",
       "Surname": "DE LA MATA",
@@ -86842,12 +86056,6 @@
       "ImageURL": ""
     },
     {
-      "ID": 71637,
-      "Forename": "Óscar",
-      "Surname": "SANTIAGO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/71637.png"
-    },
-    {
       "ID": 71639,
       "Forename": "Canberk",
       "Surname": "DİLAVER",
@@ -86930,12 +86138,6 @@
       "Forename": "Yanko",
       "Surname": "ANGELOV",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/71659.png"
-    },
-    {
-      "ID": 71661,
-      "Forename": "Alessandro",
-      "Surname": "MARCHETTI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/71661.png"
     },
     {
       "ID": 71664,
@@ -87118,12 +86320,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/71725.png"
     },
     {
-      "ID": 71726,
-      "Forename": "Adrián",
-      "Surname": "CRUZ",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/71726.jpg"
-    },
-    {
       "ID": 71736,
       "Forename": "Tom",
       "Surname": "THORPE",
@@ -87200,12 +86396,6 @@
       "Forename": "Nicolas",
       "Surname": "PEREZ",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/71753.png"
-    },
-    {
-      "ID": 71755,
-      "Forename": "Armengol",
-      "Surname": "DAVID",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/71755.jpg"
     },
     {
       "ID": 71761,
@@ -87380,12 +86570,6 @@
       "Forename": "Dae-Kyung",
       "Surname": "KIM",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/71826.jpg"
-    },
-    {
-      "ID": 71827,
-      "Forename": "Brais",
-      "Surname": "PEREIRO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/71827.jpg"
     },
     {
       "ID": 71828,
@@ -87580,12 +86764,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/71906.jpg"
     },
     {
-      "ID": 71911,
-      "Forename": "Sergio",
-      "Surname": "TAMAYO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/71911.jpg"
-    },
-    {
       "ID": 71921,
       "Forename": "Iñigo",
       "Surname": "ZUBIRI",
@@ -87596,12 +86774,6 @@
       "Forename": "Álex",
       "Surname": "GONZÁLEZ",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/71947.png"
-    },
-    {
-      "ID": 71948,
-      "Forename": "Adrián",
-      "Surname": "LEÓN",
-      "ImageURL": ""
     },
     {
       "ID": 71953,
@@ -88744,18 +87916,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/72332.png"
     },
     {
-      "ID": 72333,
-      "Forename": "Maqueda",
-      "Surname": "HÉCTOR",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/72333.jpg"
-    },
-    {
-      "ID": 72335,
-      "Forename": "Delgado",
-      "Surname": "ALBERTO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/72335.png"
-    },
-    {
       "ID": 72338,
       "Forename": "César",
       "Surname": "DE LA HOZ",
@@ -88766,12 +87926,6 @@
       "Forename": "Fernando",
       "Surname": "RIBAS",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/72342.jpg"
-    },
-    {
-      "ID": 72351,
-      "Forename": "Rekrouk",
-      "Surname": "MOHA",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/72351.jpg"
     },
     {
       "ID": 72354,
@@ -89132,12 +88286,6 @@
       "Forename": "Chang-Yong",
       "Surname": "LEE",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/72511.png"
-    },
-    {
-      "ID": 72519,
-      "Forename": "Diego",
-      "Surname": "MANZANO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/72519.png"
     },
     {
       "ID": 72525,
@@ -89674,12 +88822,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/72716.jpg"
     },
     {
-      "ID": 72718,
-      "Forename": "Ian",
-      "Surname": "GONZÁLEZ",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/72718.jpg"
-    },
-    {
       "ID": 72719,
       "Forename": "Ivi",
       "Surname": "LÓPEZ",
@@ -89732,12 +88874,6 @@
       "Forename": "Mikel",
       "Surname": "ZARRABEITIA",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/72732.png"
-    },
-    {
-      "ID": 72733,
-      "Forename": "Josu",
-      "Surname": "SANTAMARIA",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/72733.jpg"
     },
     {
       "ID": 72734,
@@ -90274,12 +89410,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/72949.png"
     },
     {
-      "ID": 72951,
-      "Forename": "Sebastian",
-      "Surname": "ZIELENIECKI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/72951.png"
-    },
-    {
       "ID": 72952,
       "Forename": "Andrea",
       "Surname": "BRIGHENTI",
@@ -90416,12 +89546,6 @@
       "Forename": "Emanuele",
       "Surname": "ALLEGRA",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/73000.png"
-    },
-    {
-      "ID": 73012,
-      "Forename": "Luiz",
-      "Surname": "GABRIEL",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/73012.jpg"
     },
     {
       "ID": 73013,
@@ -91184,12 +90308,6 @@
       "Forename": "Quade",
       "Surname": "TAYLOR",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/73270.jpg"
-    },
-    {
-      "ID": 73273,
-      "Forename": "Josh",
-      "Surname": "WAKEFIELD",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/73273.png"
     },
     {
       "ID": 73274,
@@ -92307,12 +91425,6 @@
       "Forename": "Predrag",
       "Surname": "KASCELAN",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/73638.png"
-    },
-    {
-      "ID": 73642,
-      "Forename": "Andrey",
-      "Surname": "LYAKH",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/73642.png"
     },
     {
       "ID": 73644,
@@ -93705,12 +92817,6 @@
       "Forename": "Alberto",
       "Surname": "DE FRANCESCO",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/74087.png"
-    },
-    {
-      "ID": 74088,
-      "Forename": "Lorenzo",
-      "Surname": "LONGO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/74088.png"
     },
     {
       "ID": 74089,
@@ -95505,12 +94611,6 @@
       "Forename": "Claudio",
       "Surname": "BELLANAVE",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/74581.png"
-    },
-    {
-      "ID": 74586,
-      "Forename": "Pascal",
-      "Surname": "SOHM",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/74586.png"
     },
     {
       "ID": 74587,
@@ -101178,12 +100278,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/76184.png"
     },
     {
-      "ID": 76187,
-      "Forename": "Andrea",
-      "Surname": "NALINI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/76187.png"
-    },
-    {
       "ID": 76189,
       "Forename": "Serkan",
       "Surname": "FIRAT",
@@ -101206,12 +100300,6 @@
       "Forename": "Segun",
       "Surname": "OWOBOWALE",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/76192.png"
-    },
-    {
-      "ID": 76193,
-      "Forename": "Louis",
-      "Surname": "SAMSON",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/76193.png"
     },
     {
       "ID": 76194,
@@ -101506,12 +100594,6 @@
       "Forename": "Erik",
       "Surname": "ANDERSSON",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/76252.png"
-    },
-    {
-      "ID": 76253,
-      "Forename": "Sergio",
-      "Surname": "PÉREZ",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/76253.jpg"
     },
     {
       "ID": 76254,
@@ -102650,12 +101732,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/76520.png"
     },
     {
-      "ID": 76522,
-      "Forename": "Jerome",
-      "Surname": "OKIMO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/76522.png"
-    },
-    {
       "ID": 76523,
       "Forename": "Ryan",
       "Surname": "JOHNSON",
@@ -103090,8 +102166,8 @@
     },
     {
       "ID": 76639,
-      "Forename": "Miranda",
-      "Surname": "RICARDINHO",
+      "Forename": "Ricardinho",
+      "Surname": "MIRANDA",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/76639.png"
     },
     {
@@ -106828,8 +105904,8 @@
     },
     {
       "ID": 77798,
-      "Forename": "Afonso",
-      "Surname": "KIKI",
+      "Forename": "Kiki",
+      "Surname": "AFONSO",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/77798.png"
     },
     {
@@ -107505,12 +106581,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/78015.png"
     },
     {
-      "ID": 78022,
-      "Forename": "Anthony",
-      "Surname": "CHAUVET",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/78022.png"
-    },
-    {
       "ID": 78025,
       "Forename": "Paul",
       "Surname": "LÉONARD",
@@ -107737,12 +106807,6 @@
       "Forename": "Ignacio",
       "Surname": "ABELEDO",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/78082.png"
-    },
-    {
-      "ID": 78083,
-      "Forename": "Ismael",
-      "Surname": "CÉSAR",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/78083.jpg"
     },
     {
       "ID": 78084,
@@ -108075,22 +107139,10 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/78173.png"
     },
     {
-      "ID": 78174,
-      "Forename": "Nico",
-      "Surname": "MATERN",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/78174.png"
-    },
-    {
       "ID": 78175,
       "Forename": "Dennis",
       "Surname": "SRBENY",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/78175.png"
-    },
-    {
-      "ID": 78179,
-      "Forename": "Stanislav",
-      "Surname": "HERZEL",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/78179.jpg"
     },
     {
       "ID": 78180,
@@ -108537,12 +107589,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/78320.png"
     },
     {
-      "ID": 78328,
-      "Forename": "Ocaña",
-      "Surname": "ÁLVARO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/78328.jpg"
-    },
-    {
       "ID": 78329,
       "Forename": "Adjin",
       "Surname": "LIVINGSTONE",
@@ -108939,12 +107985,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/78436.png"
     },
     {
-      "ID": 78437,
-      "Forename": "Dany",
-      "Surname": "MAURY",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/78437.png"
-    },
-    {
       "ID": 78438,
       "Forename": "Florian",
       "Surname": "DAVID",
@@ -109273,12 +108313,6 @@
       "Forename": "Romário",
       "Surname": "BALDÉ",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/78526.png"
-    },
-    {
-      "ID": 78527,
-      "Forename": "Nikola",
-      "Surname": "JELISIC",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/78527.png"
     },
     {
       "ID": 78529,
@@ -110096,12 +109130,6 @@
       "Forename": "Nadiem",
       "Surname": "AMIRI",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/78788.png"
-    },
-    {
-      "ID": 78790,
-      "Forename": "Raphael",
-      "Surname": "FRAMBERGER",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/78790.png"
     },
     {
       "ID": 78791,
@@ -112354,12 +111382,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/79537.png"
     },
     {
-      "ID": 79540,
-      "Forename": "Carlos",
-      "Surname": "ESTEVE",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/79540.png"
-    },
-    {
       "ID": 79541,
       "Forename": "Riccardo",
       "Surname": "RAVASI",
@@ -113222,12 +112244,6 @@
       "Forename": "José",
       "Surname": "MINA",
       "ImageURL": ""
-    },
-    {
-      "ID": 79798,
-      "Forename": "Yan",
-      "Surname": "KAZAEV",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/79798.png"
     },
     {
       "ID": 79799,
@@ -114278,12 +113294,6 @@
       "Forename": "Franco",
       "Surname": "JOMINY",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/80106.png"
-    },
-    {
-      "ID": 80107,
-      "Forename": "Ignacio",
-      "Surname": "MAGANTO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/80107.png"
     },
     {
       "ID": 80108,
@@ -116153,12 +115163,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/80726.png"
     },
     {
-      "ID": 80727,
-      "Forename": "Germán",
-      "Surname": "SÁNCHEZ",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/80727.png"
-    },
-    {
       "ID": 80728,
       "Forename": "Denis",
       "Surname": "PINTO",
@@ -118019,12 +117023,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/81234.jpg"
     },
     {
-      "ID": 81237,
-      "Forename": "Renan",
-      "Surname": "ZANELLI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/81237.png"
-    },
-    {
       "ID": 81240,
       "Forename": "Luiz",
       "Surname": "PAULO",
@@ -118932,12 +117930,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/81462.png"
     },
     {
-      "ID": 81463,
-      "Forename": "Malick",
-      "Surname": "SECK",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/81463.png"
-    },
-    {
       "ID": 81464,
       "Forename": "Aristote",
       "Surname": "MADIANI",
@@ -119308,12 +118300,6 @@
       "Forename": "Kakha",
       "Surname": "MAKHARADZE",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/81543.png"
-    },
-    {
-      "ID": 81544,
-      "Forename": "Jannis",
-      "Surname": "NIKOLAOU",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/81544.png"
     },
     {
       "ID": 81545,
@@ -120008,12 +118994,6 @@
       "Forename": "Zé",
       "Surname": "PEDRO",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/81701.jpg"
-    },
-    {
-      "ID": 81703,
-      "Forename": "Antonio",
-      "Surname": "ROMERO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/81703.png"
     },
     {
       "ID": 81704,
@@ -121202,12 +120182,6 @@
       "Forename": "Nicolas",
       "Surname": "GIMÉNEZ",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/82003.png"
-    },
-    {
-      "ID": 82004,
-      "Forename": "Nicolás",
-      "Surname": "RIZZO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/82004.png"
     },
     {
       "ID": 82005,
@@ -126177,12 +125151,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/83230.png"
     },
     {
-      "ID": 83231,
-      "Forename": "Louis",
-      "Surname": "ROONEY",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/83231.jpg"
-    },
-    {
       "ID": 83233,
       "Forename": "Ryan",
       "Surname": "SELLERS",
@@ -127353,12 +126321,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/83539.png"
     },
     {
-      "ID": 83540,
-      "Forename": "Aleksandr",
-      "Surname": "DOVBNYA",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/83540.jpg"
-    },
-    {
       "ID": 83541,
       "Forename": "Nikolay",
       "Surname": "KIPIANI",
@@ -127387,12 +126349,6 @@
       "Forename": "Andrey",
       "Surname": "IVANOV",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/83545.jpg"
-    },
-    {
-      "ID": 83546,
-      "Forename": "Artem",
-      "Surname": "VYATKIN",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/83546.jpg"
     },
     {
       "ID": 83547,
@@ -127471,12 +126427,6 @@
       "Forename": "Aleksandr",
       "Surname": "SHUBIN",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/83572.jpg"
-    },
-    {
-      "ID": 83573,
-      "Forename": "Dmitriy",
-      "Surname": "ARAPOV",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/83573.png"
     },
     {
       "ID": 83577,
@@ -130404,12 +129354,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/84304.png"
     },
     {
-      "ID": 84309,
-      "Forename": "Gabriel",
-      "Surname": "DEAC",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/84309.png"
-    },
-    {
       "ID": 84310,
       "Forename": "Constantino",
       "Surname": "ELTON",
@@ -131714,12 +130658,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/84654.jpg"
     },
     {
-      "ID": 84655,
-      "Forename": "Andrés",
-      "Surname": "LLAMAS",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/84655.png"
-    },
-    {
       "ID": 84656,
       "Forename": "Michele",
       "Surname": "SPINELLI",
@@ -131732,12 +130670,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/84657.jpg"
     },
     {
-      "ID": 84658,
-      "Forename": "Andrea",
-      "Surname": "MALBERTI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/84658.jpg"
-    },
-    {
       "ID": 84660,
       "Forename": "Raul",
       "Surname": "ZUCCHETTI",
@@ -131748,12 +130680,6 @@
       "Forename": "Giovanni",
       "Surname": "CROCIATA",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/84663.png"
-    },
-    {
-      "ID": 84664,
-      "Forename": "Mattia",
-      "Surname": "EL HILALI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/84664.jpg"
     },
     {
       "ID": 84665,
@@ -134076,12 +133002,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/85291.png"
     },
     {
-      "ID": 85293,
-      "Forename": "Joel",
-      "Surname": "ARIMANY",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/85293.png"
-    },
-    {
       "ID": 85294,
       "Forename": "Alexis",
       "Surname": "MESSIDORO",
@@ -134110,12 +133030,6 @@
       "Forename": "Vlad",
       "Surname": "MARIN",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/85299.jpg"
-    },
-    {
-      "ID": 85300,
-      "Forename": "David",
-      "Surname": "MILINKOVIĆ",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/85300.jpg"
     },
     {
       "ID": 85301,
@@ -137537,12 +136451,6 @@
       "ImageURL": ""
     },
     {
-      "ID": 86209,
-      "Forename": "Bae-Jong",
-      "Surname": "PARK",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/86209.png"
-    },
-    {
       "ID": 86215,
       "Forename": "Sin-Young Bae",
       "Surname": "BAE",
@@ -138609,12 +137517,6 @@
       "Forename": "Ardit",
       "Surname": "KRYMI",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/86498.png"
-    },
-    {
-      "ID": 86499,
-      "Forename": "Álex",
-      "Surname": "PORTILLO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/86499.png"
     },
     {
       "ID": 86500,
@@ -143167,12 +142069,6 @@
       "Forename": "George",
       "Surname": "HIRST",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/87606.png"
-    },
-    {
-      "ID": 87607,
-      "Forename": "Joe",
-      "Surname": "ROBINSON",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/87607.jpg"
     },
     {
       "ID": 87608,
@@ -148420,12 +147316,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/88834.png"
     },
     {
-      "ID": 88836,
-      "Forename": "Antonio",
-      "Surname": "VERA",
-      "ImageURL": ""
-    },
-    {
       "ID": 88837,
       "Forename": "Moses",
       "Surname": "OLOYA",
@@ -148520,12 +147410,6 @@
       "Forename": "Antonio",
       "Surname": "CABALLERO",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/88858.png"
-    },
-    {
-      "ID": 88861,
-      "Forename": "Héctor",
-      "Surname": "NESPRAL",
-      "ImageURL": ""
     },
     {
       "ID": 88862,
@@ -150517,12 +149401,6 @@
       "Forename": "Gilson",
       "Surname": "COSTA",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/89347.png"
-    },
-    {
-      "ID": 89348,
-      "Forename": "Michael",
-      "Surname": "FÓLIVI",
-      "ImageURL": ""
     },
     {
       "ID": 89349,
@@ -153450,12 +152328,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/90074.png"
     },
     {
-      "ID": 90075,
-      "Forename": "Hee-Hoon",
-      "Surname": "HAN",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/90075.png"
-    },
-    {
       "ID": 90076,
       "Forename": "Dong-Jin",
       "Surname": "KIM",
@@ -154024,12 +152896,6 @@
       "Forename": "Nicolás",
       "Surname": "CORDERO",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/90227.png"
-    },
-    {
-      "ID": 90228,
-      "Forename": "Arouna",
-      "Surname": "BISSENE",
-      "ImageURL": ""
     },
     {
       "ID": 90229,
@@ -157313,12 +156179,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/90943.png"
     },
     {
-      "ID": 90944,
-      "Forename": "Álex",
-      "Surname": "MOZO",
-      "ImageURL": ""
-    },
-    {
       "ID": 90945,
       "Forename": "Eric",
       "Surname": "CURBELO",
@@ -159163,8 +158023,8 @@
     },
     {
       "ID": 91332,
-      "Forename": "Machado",
-      "Surname": "BEBETO",
+      "Forename": "Bebeto",
+      "Surname": "MACHADO",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/91332.png"
     },
     {
@@ -159529,7 +158389,7 @@
     },
     {
       "ID": 91412,
-      "Forename": "Cristian",
+      "Forename": "Antonio",
       "Surname": "GLAUDER",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/91412.png"
     },
@@ -159754,12 +158614,6 @@
       "Forename": "Jakub",
       "Surname": "YUNIS",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/91458.png"
-    },
-    {
-      "ID": 91459,
-      "Forename": "Ladale",
-      "Surname": "RICHIE",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/91459.png"
     },
     {
       "ID": 91460,
@@ -163164,12 +162018,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/92350.png"
     },
     {
-      "ID": 92351,
-      "Forename": "Pasquale",
-      "Surname": "DI SABATINO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/92351.png"
-    },
-    {
       "ID": 92354,
       "Forename": "Andrea",
       "Surname": "MAESTRELLI",
@@ -165623,12 +164471,6 @@
       "Forename": "Mihai",
       "Surname": "NEICUTESCU",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/92863.png"
-    },
-    {
-      "ID": 92864,
-      "Forename": "Michal",
-      "Surname": "LEWANDOWSKI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/92864.png"
     },
     {
       "ID": 92865,
@@ -168716,12 +167558,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/93521.png"
     },
     {
-      "ID": 93522,
-      "Forename": "Kevin",
-      "Surname": "COLIN",
-      "ImageURL": ""
-    },
-    {
       "ID": 93523,
       "Forename": "Victor",
       "Surname": "ELISSALT",
@@ -168774,12 +167610,6 @@
       "Forename": "Inza",
       "Surname": "DIARRASSOUBA",
       "ImageURL": ""
-    },
-    {
-      "ID": 93537,
-      "Forename": "Matthieu",
-      "Surname": "EZIKIAN",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/93537.png"
     },
     {
       "ID": 93538,
@@ -168980,12 +167810,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/93576.png"
     },
     {
-      "ID": 93577,
-      "Forename": "Cristian",
-      "Surname": "CARLETTI",
-      "ImageURL": ""
-    },
-    {
       "ID": 93578,
       "Forename": "Alessio",
       "Surname": "POZZI",
@@ -169146,12 +167970,6 @@
       "Forename": "Bilel",
       "Surname": "AGUENI",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/93608.png"
-    },
-    {
-      "ID": 93609,
-      "Forename": "Yamin",
-      "Surname": "AMIRI",
-      "ImageURL": ""
     },
     {
       "ID": 93610,
@@ -169487,12 +168305,6 @@
       "ID": 93696,
       "Forename": "Andrea",
       "Surname": "TARASCO",
-      "ImageURL": ""
-    },
-    {
-      "ID": 93697,
-      "Forename": "Antonio",
-      "Surname": "ESPOSITO",
       "ImageURL": ""
     },
     {
@@ -169934,12 +168746,6 @@
       "ImageURL": ""
     },
     {
-      "ID": 93789,
-      "Forename": "Nahuel",
-      "Surname": "OMILIANI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/93789.png"
-    },
-    {
       "ID": 93790,
       "Forename": "Hafizul",
       "Surname": "HAKIM",
@@ -170015,12 +168821,6 @@
       "ID": 93802,
       "Forename": "Cristian",
       "Surname": "SANZ",
-      "ImageURL": ""
-    },
-    {
-      "ID": 93803,
-      "Forename": "Raúl",
-      "Surname": "VALLEJO",
       "ImageURL": ""
     },
     {
@@ -171601,12 +170401,6 @@
       "Forename": "Andreas",
       "Surname": "SØNDERGAARD",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/94142.png"
-    },
-    {
-      "ID": 94143,
-      "Forename": "Joritz",
-      "Surname": "LANDETA",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/94143.png"
     },
     {
       "ID": 94144,
@@ -176452,12 +175246,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/95247.png"
     },
     {
-      "ID": 95249,
-      "Forename": "Fran",
-      "Surname": "GRIMA",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/95249.png"
-    },
-    {
       "ID": 95250,
       "Forename": "Niels",
       "Surname": "VERBURGH",
@@ -176652,7 +175440,7 @@
     {
       "ID": 95287,
       "Forename": "Pablo",
-      "Surname": "RUIZ",
+      "Surname": "RUÍZ",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/95287.png"
     },
     {
@@ -180791,12 +179579,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/96215.png"
     },
     {
-      "ID": 96216,
-      "Forename": "Gordon",
-      "Surname": "WILD",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/96216.png"
-    },
-    {
       "ID": 96217,
       "Forename": "Byron",
       "Surname": "CASTILLO",
@@ -181553,12 +180335,6 @@
       "ImageURL": ""
     },
     {
-      "ID": 96386,
-      "Forename": "Evgeniy",
-      "Surname": "NAZAROV",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/96386.png"
-    },
-    {
       "ID": 96387,
       "Forename": "Vitaliy",
       "Surname": "STEZHKO",
@@ -181713,12 +180489,6 @@
       "Forename": "Roman",
       "Surname": "TUGAREV",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/96412.png"
-    },
-    {
-      "ID": 96413,
-      "Forename": "Pascal",
-      "Surname": "BREIER",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/96413.png"
     },
     {
       "ID": 96415,
@@ -186945,12 +185715,6 @@
       "ImageURL": ""
     },
     {
-      "ID": 97563,
-      "Forename": "Gonzalo",
-      "Surname": "GONZÁLEZ",
-      "ImageURL": ""
-    },
-    {
       "ID": 97564,
       "Forename": "Victor",
       "Surname": "LOBRY",
@@ -191251,12 +190015,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/98459.png"
     },
     {
-      "ID": 98460,
-      "Forename": "Diego",
-      "Surname": "PARRAS",
-      "ImageURL": ""
-    },
-    {
       "ID": 98461,
       "Forename": "Miquel",
       "Surname": "PARERA",
@@ -192536,12 +191294,6 @@
       "ImageURL": ""
     },
     {
-      "ID": 98740,
-      "Forename": "Jack",
-      "Surname": "HINDLE",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/98740.png"
-    },
-    {
       "ID": 98741,
       "Forename": "Tyler",
       "Surname": "SMITH",
@@ -193463,12 +192215,6 @@
       "ID": 98954,
       "Forename": "Jordan",
       "Surname": "GIL",
-      "ImageURL": ""
-    },
-    {
-      "ID": 98956,
-      "Forename": "Philippe",
-      "Surname": "SIMONCINI",
       "ImageURL": ""
     },
     {
@@ -194457,12 +193203,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/99202.png"
     },
     {
-      "ID": 99203,
-      "Forename": "Jasper",
-      "Surname": "TER HEIDE",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/99203.png"
-    },
-    {
       "ID": 99204,
       "Forename": "Vitor",
       "Surname": "EUDES",
@@ -194940,7 +193680,7 @@
     },
     {
       "ID": 99298,
-      "Forename": "Juanjo",
+      "Forename": "Juan",
       "Surname": "PURATA",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/99298.png"
     },
@@ -194967,12 +193707,6 @@
       "Forename": "Jonathan",
       "Surname": "VEGA",
       "ImageURL": ""
-    },
-    {
-      "ID": 99305,
-      "Forename": "Pelayo",
-      "Surname": "MORILLA",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/99305.png"
     },
     {
       "ID": 99306,
@@ -209406,12 +208140,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/102094.png"
     },
     {
-      "ID": 102095,
-      "Forename": "Te Atawhai",
-      "Surname": "HUDSON-WIHONGI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/102095.png"
-    },
-    {
       "ID": 102096,
       "Forename": "Liam",
       "Surname": "MCGING",
@@ -210046,12 +208774,6 @@
       "Forename": "Allan",
       "Surname": "OKELLO",
       "ImageURL": ""
-    },
-    {
-      "ID": 102209,
-      "Forename": "Mattia",
-      "Surname": "PITZALIS",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/102209.png"
     },
     {
       "ID": 102210,
@@ -212399,7 +211121,7 @@
     {
       "ID": 102654,
       "Forename": "Fábio",
-      "Surname": "SOUSA",
+      "Surname": "DE SOUSA SILVA",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/102654.png"
     },
     {
@@ -214243,7 +212965,7 @@
     },
     {
       "ID": 102994,
-      "Forename": "Oluwatobiloba",
+      "Forename": "Tobi",
       "Surname": "ALAGBE",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/102994.png"
     },
@@ -217322,12 +216044,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/103698.png"
     },
     {
-      "ID": 103699,
-      "Forename": "Wesley",
-      "Surname": "MOUSTACHE",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/103699.png"
-    },
-    {
       "ID": 103700,
       "Forename": "Batista",
       "Surname": "MENDY",
@@ -218298,12 +217014,6 @@
       "Forename": "Ryan",
       "Surname": "JOHANSSON",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/103870.png"
-    },
-    {
-      "ID": 103872,
-      "Forename": "Adriá",
-      "Surname": "DE MESA",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/103872.png"
     },
     {
       "ID": 103873,
@@ -223928,12 +222638,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/104895.png"
     },
     {
-      "ID": 104896,
-      "Forename": "Pablo",
-      "Surname": "HARO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/104896.png"
-    },
-    {
       "ID": 104897,
       "Forename": "David",
       "Surname": "MINDOMBE",
@@ -224216,12 +222920,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/104946.png"
     },
     {
-      "ID": 104947,
-      "Forename": "Anas",
-      "Surname": "MAROUN",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/104947.png"
-    },
-    {
       "ID": 104948,
       "Forename": "Adam",
       "Surname": "GNEZDA ČERIN",
@@ -224358,12 +223056,6 @@
       "Forename": "Yari",
       "Surname": "OTTO",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/104973.png"
-    },
-    {
-      "ID": 104974,
-      "Forename": "Aaron",
-      "Surname": "HERZOG",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/104974.png"
     },
     {
       "ID": 104975,
@@ -225081,8 +223773,8 @@
     },
     {
       "ID": 105101,
-      "Forename": "Medeiros",
-      "Surname": "RONI",
+      "Forename": "Roni",
+      "Surname": "MEDEIROS",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/105101.png"
     },
     {
@@ -226712,12 +225404,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/105402.png"
     },
     {
-      "ID": 105403,
-      "Forename": "Morten",
-      "Surname": "RÜDIGER",
-      "ImageURL": ""
-    },
-    {
       "ID": 105404,
       "Forename": "Patrick",
       "Surname": "HOBSCH",
@@ -227136,12 +225822,6 @@
       "Forename": "Riki",
       "Surname": "RODRÍGUEZ",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/105479.png"
-    },
-    {
-      "ID": 105480,
-      "Forename": "Ángel",
-      "Surname": "MORENO",
-      "ImageURL": ""
     },
     {
       "ID": 105482,
@@ -227712,12 +226392,6 @@
       "Forename": "Akmal",
       "Surname": "BAKHTIYAROV",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/105582.png"
-    },
-    {
-      "ID": 105583,
-      "Forename": "Maksim",
-      "Surname": "BARSOV",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/105583.png"
     },
     {
       "ID": 105584,
@@ -232341,12 +231015,6 @@
       "Forename": "Michal",
       "Surname": "LITWA",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/106450.png"
-    },
-    {
-      "ID": 106452,
-      "Forename": "Josh",
-      "Surname": "CASEY",
-      "ImageURL": ""
     },
     {
       "ID": 106453,
@@ -237161,12 +235829,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/107365.png"
     },
     {
-      "ID": 107366,
-      "Forename": "Volodymyr",
-      "Surname": "BILOTSERKOVETS",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/107366.png"
-    },
-    {
       "ID": 107368,
       "Forename": "Rudolf",
       "Surname": "BLAGOGEE",
@@ -237704,12 +236366,6 @@
       "ID": 107479,
       "Forename": "Réjis",
       "Surname": "KOUAKOU",
-      "ImageURL": ""
-    },
-    {
-      "ID": 107480,
-      "Forename": "Jordan",
-      "Surname": "KASSA",
       "ImageURL": ""
     },
     {
@@ -238882,12 +237538,6 @@
       "Forename": "Bryan",
       "Surname": "NGWABIJE",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/107699.png"
-    },
-    {
-      "ID": 107700,
-      "Forename": "Pierre",
-      "Surname": "POPP",
-      "ImageURL": ""
     },
     {
       "ID": 107701,
@@ -242007,12 +240657,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/108260.png"
     },
     {
-      "ID": 108261,
-      "Forename": "David",
-      "Surname": "CROITORU",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/108261.png"
-    },
-    {
       "ID": 108262,
       "Forename": "Enriko",
       "Surname": "PAPA",
@@ -243032,12 +241676,6 @@
       "Forename": "Michael",
       "Surname": "SIROSHTEN",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/108459.png"
-    },
-    {
-      "ID": 108460,
-      "Forename": "Ido",
-      "Surname": "LEVY",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/108460.png"
     },
     {
       "ID": 108461,
@@ -244918,12 +243556,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/108798.png"
     },
     {
-      "ID": 108800,
-      "Forename": "Néstor",
-      "Surname": "QUEROL",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/108800.png"
-    },
-    {
       "ID": 108801,
       "Forename": "Aarón",
       "Surname": "REY",
@@ -245487,12 +244119,6 @@
       "Forename": "Zurab",
       "Surname": "GIGASHVILI",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/108900.png"
-    },
-    {
-      "ID": 108901,
-      "Forename": "Islam",
-      "Surname": "ALSULTANOV",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/108901.png"
     },
     {
       "ID": 108902,
@@ -246844,12 +245470,6 @@
       "Forename": "Raivis",
       "Surname": "JURKOVSKIS",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/109138.png"
-    },
-    {
-      "ID": 109139,
-      "Forename": "Alessio",
-      "Surname": "ABIBI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/109139.png"
     },
     {
       "ID": 109140,
@@ -248553,12 +247173,6 @@
       "ID": 109470,
       "Forename": "Emmanuel Léonce",
       "Surname": "KOUADIO",
-      "ImageURL": ""
-    },
-    {
-      "ID": 109472,
-      "Forename": "Mete",
-      "Surname": "CELIK",
       "ImageURL": ""
     },
     {
@@ -251881,8 +250495,8 @@
     },
     {
       "ID": 110062,
-      "Forename": "Julio",
-      "Surname": "FERRARI",
+      "Forename": "Júlio",
+      "Surname": "CÉSAR FERRARI",
       "ImageURL": ""
     },
     {
@@ -255978,12 +254592,6 @@
       "Forename": "Jere",
       "Surname": "KALLINEN",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/110924.png"
-    },
-    {
-      "ID": 110925,
-      "Forename": "Diego",
-      "Surname": "DIZ",
-      "ImageURL": ""
     },
     {
       "ID": 110926,
@@ -261951,12 +260559,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/112040.png"
     },
     {
-      "ID": 112041,
-      "Forename": "Álvaro",
-      "Surname": "MONTEJO",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/112041.png"
-    },
-    {
       "ID": 112042,
       "Forename": "Lautaro",
       "Surname": "PERTUSATTI",
@@ -263033,7 +261635,7 @@
     {
       "ID": 112245,
       "Forename": "Stefan",
-      "Surname": "DENIC",
+      "Surname": "DENIĆ",
       "ImageURL": ""
     },
     {
@@ -268327,12 +266929,6 @@
       "Forename": "Robert",
       "Surname": "WILLIAMS",
       "ImageURL": ""
-    },
-    {
-      "ID": 113254,
-      "Forename": "Ben",
-      "Surname": "ZAGRÈ",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/113254.png"
     },
     {
       "ID": 113255,
@@ -274593,12 +273189,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/114390.png"
     },
     {
-      "ID": 114391,
-      "Forename": "Riccardo",
-      "Surname": "ODDI",
-      "ImageURL": ""
-    },
-    {
       "ID": 114392,
       "Forename": "Gabriele",
       "Surname": "CAPANNI",
@@ -275326,12 +273916,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/114524.png"
     },
     {
-      "ID": 114525,
-      "Forename": "Denis",
-      "Surname": "KINA",
-      "ImageURL": ""
-    },
-    {
       "ID": 114527,
       "Forename": "Marco",
       "Surname": "SCHLEEF",
@@ -275350,28 +273934,10 @@
       "ImageURL": ""
     },
     {
-      "ID": 114531,
-      "Forename": "Niklas",
-      "Surname": "TASKY",
-      "ImageURL": ""
-    },
-    {
       "ID": 114532,
       "Forename": "Maycon",
       "Surname": "CLEITON",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/114532.png"
-    },
-    {
-      "ID": 114533,
-      "Forename": "Linus",
-      "Surname": "MEYER",
-      "ImageURL": ""
-    },
-    {
-      "ID": 114534,
-      "Forename": "Deniz",
-      "Surname": "CICEK",
-      "ImageURL": ""
     },
     {
       "ID": 114535,
@@ -277547,7 +276113,7 @@
     },
     {
       "ID": 114935,
-      "Forename": "João",
+      "Forename": "Jota",
       "Surname": "OLIVEIRA",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/114935.png"
     },
@@ -279278,12 +277844,6 @@
       "Forename": "Matteo",
       "Surname": "ORTOLANI",
       "ImageURL": ""
-    },
-    {
-      "ID": 115264,
-      "Forename": "Gian Marco",
-      "Surname": "NESTA",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/115264.png"
     },
     {
       "ID": 115265,
@@ -287153,12 +285713,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/116743.png"
     },
     {
-      "ID": 116744,
-      "Forename": "Jannes",
-      "Surname": "TASCHE",
-      "ImageURL": ""
-    },
-    {
       "ID": 116745,
       "Forename": "Dennis",
       "Surname": "DICKMANN",
@@ -292692,12 +291246,6 @@
       "ImageURL": ""
     },
     {
-      "ID": 117757,
-      "Forename": "Abdulkerim",
-      "Surname": "CAKAR",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/117757.png"
-    },
-    {
       "ID": 117759,
       "Forename": "Ahmed Desire",
       "Surname": "TETY",
@@ -294252,12 +292800,6 @@
       "ImageURL": ""
     },
     {
-      "ID": 118039,
-      "Forename": "Geoffrey",
-      "Surname": "GAMELIN",
-      "ImageURL": ""
-    },
-    {
       "ID": 118040,
       "Forename": "Andreas",
       "Surname": "JUNGDAL",
@@ -294457,12 +292999,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/118073.png"
     },
     {
-      "ID": 118074,
-      "Forename": "Sam",
-      "Surname": "DUCROS",
-      "ImageURL": ""
-    },
-    {
       "ID": 118075,
       "Forename": "Emmett",
       "Surname": "MCGUCKIN",
@@ -294508,12 +293044,6 @@
       "ID": 118082,
       "Forename": "Alexandre",
       "Surname": "CELERIER",
-      "ImageURL": ""
-    },
-    {
-      "ID": 118083,
-      "Forename": "Lucas",
-      "Surname": "DUMAI",
       "ImageURL": ""
     },
     {
@@ -294842,7 +293372,7 @@
     },
     {
       "ID": 118141,
-      "Forename": "Yassine",
+      "Forename": "Yacine",
       "Surname": "TITRAOUI",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/118141.png"
     },
@@ -296973,7 +295503,7 @@
     {
       "ID": 118532,
       "Forename": "Mohammed",
-      "Surname": "AL HAWSAWI",
+      "Surname": "AL HASAWI",
       "ImageURL": ""
     },
     {
@@ -301448,12 +299978,6 @@
       "ImageURL": ""
     },
     {
-      "ID": 119348,
-      "Forename": "Ricardo",
-      "Surname": "POSTOLACHE",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/119348.png"
-    },
-    {
       "ID": 119351,
       "Forename": "Ianis",
       "Surname": "TÂRBĂ",
@@ -302378,12 +300902,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/119513.png"
     },
     {
-      "ID": 119514,
-      "Forename": "Emmanuel",
-      "Surname": "KOFFI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/119514.png"
-    },
-    {
       "ID": 119515,
       "Forename": "Anumanthan",
       "Surname": "KUMAR",
@@ -302930,12 +301448,6 @@
       "ImageURL": ""
     },
     {
-      "ID": 119612,
-      "Forename": "Edoardo",
-      "Surname": "CIANCIO",
-      "ImageURL": ""
-    },
-    {
       "ID": 119613,
       "Forename": "Jonathan",
       "Surname": "ITALENG",
@@ -303044,12 +301556,6 @@
       "ImageURL": ""
     },
     {
-      "ID": 119631,
-      "Forename": "Ivan",
-      "Surname": "MICHELOTTI",
-      "ImageURL": ""
-    },
-    {
       "ID": 119632,
       "Forename": "Issa",
       "Surname": "DOUMBIA",
@@ -303143,12 +301649,6 @@
       "ID": 119650,
       "Forename": "Luca",
       "Surname": "GUIDETTI",
-      "ImageURL": ""
-    },
-    {
-      "ID": 119651,
-      "Forename": "Stefano",
-      "Surname": "MAGONI",
       "ImageURL": ""
     },
     {
@@ -304268,12 +302768,6 @@
       "ImageURL": ""
     },
     {
-      "ID": 119849,
-      "Forename": "Ryan",
-      "Surname": "BERGAMO",
-      "ImageURL": ""
-    },
-    {
       "ID": 119850,
       "Forename": "Filippo",
       "Surname": "GHIOLDI",
@@ -304430,12 +302924,6 @@
       "ImageURL": ""
     },
     {
-      "ID": 119877,
-      "Forename": "Francesco",
-      "Surname": "MARANO",
-      "ImageURL": ""
-    },
-    {
       "ID": 119878,
       "Forename": "Ilario",
       "Surname": "IOTTI",
@@ -304548,12 +303036,6 @@
       "Forename": "Carlo",
       "Surname": "FAEDO",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/119896.png"
-    },
-    {
-      "ID": 119897,
-      "Forename": "Massimo",
-      "Surname": "SILVESTRI",
-      "ImageURL": ""
     },
     {
       "ID": 119898,
@@ -304955,12 +303437,6 @@
       "ID": 119968,
       "Forename": "Alessandro",
       "Surname": "SANGIORGI",
-      "ImageURL": ""
-    },
-    {
-      "ID": 119969,
-      "Forename": "Luca",
-      "Surname": "COGNIGNI",
       "ImageURL": ""
     },
     {
@@ -310654,12 +309130,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/121012.png"
     },
     {
-      "ID": 121013,
-      "Forename": "Rubén",
-      "Surname": "AZCONA",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/121013.png"
-    },
-    {
       "ID": 121014,
       "Forename": "Matías",
       "Surname": "ABALDO",
@@ -311139,12 +309609,6 @@
       "Forename": "Krasimir",
       "Surname": "PANCHEV",
       "ImageURL": ""
-    },
-    {
-      "ID": 121096,
-      "Forename": "Ayoub",
-      "Surname": "TAZOUTI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/121096.png"
     },
     {
       "ID": 121097,
@@ -311687,12 +310151,6 @@
       "ImageURL": ""
     },
     {
-      "ID": 121193,
-      "Forename": "Derrick",
-      "Surname": "GYIMAH",
-      "ImageURL": ""
-    },
-    {
       "ID": 121194,
       "Forename": "Riccardo",
       "Surname": "VACCARI",
@@ -311789,12 +310247,6 @@
       "ImageURL": ""
     },
     {
-      "ID": 121210,
-      "Forename": "Abdoulaye Coly",
-      "Surname": "GNING",
-      "ImageURL": ""
-    },
-    {
       "ID": 121211,
       "Forename": "Andrea",
       "Surname": "CESCON",
@@ -311822,12 +310274,6 @@
       "ID": 121217,
       "Forename": "Cristiano",
       "Surname": "BIGOLIN",
-      "ImageURL": ""
-    },
-    {
-      "ID": 121218,
-      "Forename": "Luigi",
-      "Surname": "SARLI",
       "ImageURL": ""
     },
     {
@@ -311875,7 +310321,7 @@
     {
       "ID": 121226,
       "Forename": "Adi",
-      "Surname": "CHICĂ-ROȘĂ",
+      "Surname": "CHICA-ROSA",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/121226.png"
     },
     {
@@ -312323,12 +310769,6 @@
       "ImageURL": ""
     },
     {
-      "ID": 121311,
-      "Forename": "Riccardo",
-      "Surname": "PORCELLINI",
-      "ImageURL": ""
-    },
-    {
       "ID": 121312,
       "Forename": "Demba",
       "Surname": "KAMARA",
@@ -312543,12 +310983,6 @@
       "Forename": "Luca",
       "Surname": "POPA",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/121350.png"
-    },
-    {
-      "ID": 121351,
-      "Forename": "Antony",
-      "Surname": "PETRE",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/121351.png"
     },
     {
       "ID": 121352,
@@ -312908,12 +311342,6 @@
       "ID": 121423,
       "Forename": "Adamu",
       "Surname": "HARUNA",
-      "ImageURL": ""
-    },
-    {
-      "ID": 121424,
-      "Forename": "Jionathan",
-      "Surname": "CAMPAGNA",
       "ImageURL": ""
     },
     {
@@ -315401,12 +313829,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/121872.png"
     },
     {
-      "ID": 121873,
-      "Forename": "Jean Paul",
-      "Surname": "TOUADI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/121873.png"
-    },
-    {
       "ID": 121874,
       "Forename": "Jordan",
       "Surname": "ESTUPIÑAN",
@@ -315440,12 +313862,6 @@
       "ID": 121880,
       "Forename": "Marcelo",
       "Surname": "ASANZA",
-      "ImageURL": ""
-    },
-    {
-      "ID": 121881,
-      "Forename": "Gaye",
-      "Surname": "CAMARA",
       "ImageURL": ""
     },
     {
@@ -317319,12 +315735,6 @@
       "Forename": "Anton",
       "Surname": "PORUTCHIKOV",
       "ImageURL": ""
-    },
-    {
-      "ID": 122216,
-      "Forename": "Artem",
-      "Surname": "SAMSONOV",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/122216.png"
     },
     {
       "ID": 122217,
@@ -322043,12 +320453,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/123054.png"
     },
     {
-      "ID": 123055,
-      "Forename": "Lapo",
-      "Surname": "BALUCANI",
-      "ImageURL": ""
-    },
-    {
       "ID": 123056,
       "Forename": "Lorenzo",
       "Surname": "CAMPANER",
@@ -322179,12 +320583,6 @@
       "Forename": "Anthony",
       "Surname": "AKUMU",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/123078.png"
-    },
-    {
-      "ID": 123079,
-      "Forename": "Petro",
-      "Surname": "MEMUSHI",
-      "ImageURL": ""
     },
     {
       "ID": 123080,
@@ -324491,12 +322889,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/123495.png"
     },
     {
-      "ID": 123496,
-      "Forename": "Leonardo",
-      "Surname": "YÁNEZ",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/123496.png"
-    },
-    {
       "ID": 123497,
       "Forename": "Diego",
       "Surname": "PIÑEIRO",
@@ -324987,12 +323379,6 @@
       "Forename": "Niklas-Wilson",
       "Surname": "SOMMER",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/123583.png"
-    },
-    {
-      "ID": 123584,
-      "Forename": "Luca",
-      "Surname": "NIKOLAI",
-      "ImageURL": ""
     },
     {
       "ID": 123585,
@@ -325695,12 +324081,6 @@
       "ID": 123706,
       "Forename": "Murat",
       "Surname": "HOCAOGLU",
-      "ImageURL": ""
-    },
-    {
-      "ID": 123707,
-      "Forename": "Berkan",
-      "Surname": "CAKIR",
       "ImageURL": ""
     },
     {
@@ -326916,12 +325296,6 @@
       "ImageURL": ""
     },
     {
-      "ID": 123919,
-      "Forename": "Samuele",
-      "Surname": "UNI",
-      "ImageURL": ""
-    },
-    {
       "ID": 123920,
       "Forename": "Alessandro",
       "Surname": "CALANCA",
@@ -327162,12 +325536,6 @@
       "ImageURL": ""
     },
     {
-      "ID": 123965,
-      "Forename": "Kaan",
-      "Surname": "KEVSER-JUNIOR",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/123965.png"
-    },
-    {
       "ID": 123967,
       "Forename": "Kamani",
       "Surname": "MCFARLANE",
@@ -327202,12 +325570,6 @@
       "Forename": "Davyd",
       "Surname": "FESYUK",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/123973.png"
-    },
-    {
-      "ID": 123974,
-      "Forename": "Mohammed",
-      "Surname": "LAAMANE",
-      "ImageURL": ""
     },
     {
       "ID": 123975,
@@ -328156,12 +326518,6 @@
       "Forename": "Lucas",
       "Surname": "NOUBI",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/124144.png"
-    },
-    {
-      "ID": 124145,
-      "Forename": "Achraf",
-      "Surname": "MADI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/124145.png"
     },
     {
       "ID": 124146,
@@ -333527,7 +331883,7 @@
     },
     {
       "ID": 125080,
-      "Forename": "Joseph",
+      "Forename": "Joe",
       "Surname": "GBODE",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/125080.png"
     },
@@ -338458,12 +336814,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/125974.png"
     },
     {
-      "ID": 125975,
-      "Forename": "Leon",
-      "Surname": "NÜBEL",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/125975.png"
-    },
-    {
       "ID": 125976,
       "Forename": "Mateo",
       "Surname": "BIONDIC",
@@ -339875,7 +338225,7 @@
     },
     {
       "ID": 126221,
-      "Forename": "Monsef",
+      "Forename": "Mounsef",
       "Surname": "BAKRAR",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/126221.png"
     },
@@ -343884,21 +342234,9 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/126931.png"
     },
     {
-      "ID": 126932,
-      "Forename": "Dion",
-      "Surname": "RUFFO LUCI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/126932.png"
-    },
-    {
       "ID": 126933,
       "Forename": "Michele",
       "Surname": "TOMMASI",
-      "ImageURL": ""
-    },
-    {
-      "ID": 126934,
-      "Forename": "Matteo",
-      "Surname": "CAZZARO",
       "ImageURL": ""
     },
     {
@@ -343906,12 +342244,6 @@
       "Forename": "Alessandro",
       "Surname": "ARENA",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/126935.png"
-    },
-    {
-      "ID": 126936,
-      "Forename": "Nicolò",
-      "Surname": "FRANCOFONTE",
-      "ImageURL": ""
     },
     {
       "ID": 126937,
@@ -347911,12 +346243,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/127633.png"
     },
     {
-      "ID": 127634,
-      "Forename": "Joshua",
-      "Surname": "GROMMEN",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/127634.png"
-    },
-    {
       "ID": 127635,
       "Forename": "Niphitpon",
       "Surname": "HADCHAN",
@@ -348403,21 +346729,9 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/127719.png"
     },
     {
-      "ID": 127720,
-      "Forename": "Diego",
-      "Surname": "ABBRANDINI",
-      "ImageURL": ""
-    },
-    {
       "ID": 127721,
       "Forename": "Alessio",
       "Surname": "AMORUSO",
-      "ImageURL": ""
-    },
-    {
-      "ID": 127722,
-      "Forename": "Filippo",
-      "Surname": "LORENZONI",
       "ImageURL": ""
     },
     {
@@ -351091,12 +349405,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/128207.png"
     },
     {
-      "ID": 128208,
-      "Forename": "Niklas",
-      "Surname": "LÜBCKE",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/128208.png"
-    },
-    {
       "ID": 128209,
       "Forename": "Edvin",
       "Surname": "BONGEMBA",
@@ -352709,12 +351017,6 @@
       "Forename": "Mert",
       "Surname": "KÖMÜR",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/128494.png"
-    },
-    {
-      "ID": 128496,
-      "Forename": "Boran",
-      "Surname": "YÖRÜK",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/128496.png"
     },
     {
       "ID": 128497,
@@ -357195,12 +355497,6 @@
       "ImageURL": ""
     },
     {
-      "ID": 129288,
-      "Forename": "Inigo",
-      "Surname": "ESMANECH",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/129288.png"
-    },
-    {
       "ID": 129289,
       "Forename": "Bilario",
       "Surname": "AZIZI",
@@ -357223,12 +355519,6 @@
       "Forename": "Cesare",
       "Surname": "IVANI",
       "ImageURL": ""
-    },
-    {
-      "ID": 129293,
-      "Forename": "Mattia",
-      "Surname": "FONTANELLI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/129293.png"
     },
     {
       "ID": 129294,
@@ -357265,12 +355555,6 @@
       "Forename": "Daniele",
       "Surname": "MONTEVAGO",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/129299.png"
-    },
-    {
-      "ID": 129300,
-      "Forename": "Filippo",
-      "Surname": "CAMPINOTTI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/129300.png"
     },
     {
       "ID": 129301,
@@ -358884,12 +357168,6 @@
       "ID": 129576,
       "Forename": "Roman",
       "Surname": "LISOVSKIY",
-      "ImageURL": ""
-    },
-    {
-      "ID": 129577,
-      "Forename": "Yan",
-      "Surname": "MOSESOV",
       "ImageURL": ""
     },
     {
@@ -360681,27 +358959,9 @@
       "ImageURL": ""
     },
     {
-      "ID": 129889,
-      "Forename": "Andrea",
-      "Surname": "LORENZI",
-      "ImageURL": ""
-    },
-    {
-      "ID": 129890,
-      "Forename": "Andrea",
-      "Surname": "SALA",
-      "ImageURL": ""
-    },
-    {
       "ID": 129891,
       "Forename": "Dmitriy",
       "Surname": "KRIVOSHEEV",
-      "ImageURL": ""
-    },
-    {
-      "ID": 129892,
-      "Forename": "Paolo",
-      "Surname": "PEREZ",
       "ImageURL": ""
     },
     {
@@ -362959,12 +361219,6 @@
       "ID": 130284,
       "Forename": "Mattia",
       "Surname": "PAMPANO",
-      "ImageURL": ""
-    },
-    {
-      "ID": 130285,
-      "Forename": "Giulio",
-      "Surname": "MAGRI",
       "ImageURL": ""
     },
     {
@@ -366478,12 +364732,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/130927.png"
     },
     {
-      "ID": 130928,
-      "Forename": "Tim",
-      "Surname": "WALLE",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/130928.png"
-    },
-    {
       "ID": 130929,
       "Forename": "Georgios",
       "Surname": "KOSTEAS",
@@ -368525,7 +366773,7 @@
     },
     {
       "ID": 131291,
-      "Forename": "Matt",
+      "Forename": "Matthew",
       "Surname": "BAKER",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/131291.png"
     },
@@ -369642,7 +367890,7 @@
     {
       "ID": 131486,
       "Forename": "Mamane",
-      "Surname": "AMADOU SABO",
+      "Surname": "SABO",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/131486.png"
     },
     {
@@ -374098,12 +372346,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/132267.png"
     },
     {
-      "ID": 132268,
-      "Forename": "Nicolas",
-      "Surname": "GERARDI",
-      "ImageURL": ""
-    },
-    {
       "ID": 132270,
       "Forename": "Francesco",
       "Surname": "D'AMORE",
@@ -375546,7 +373788,7 @@
     {
       "ID": 132521,
       "Forename": "Tuan Hai",
-      "Surname": "PHẠM",
+      "Surname": "PHAM",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/132521.png"
     },
     {
@@ -379339,12 +377581,6 @@
       "ID": 133165,
       "Forename": "Skarith",
       "Surname": "TAVERAS",
-      "ImageURL": ""
-    },
-    {
-      "ID": 133166,
-      "Forename": "Edoardo",
-      "Surname": "IURATO",
       "ImageURL": ""
     },
     {
@@ -384276,7 +382512,7 @@
     {
       "ID": 134036,
       "Forename": "Pedro",
-      "Surname": "BORGES",
+      "Surname": "ELAWAR",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/134036.png"
     },
     {
@@ -385343,7 +383579,7 @@
     },
     {
       "ID": 134230,
-      "Forename": "Mouhcine",
+      "Forename": "Mohssine",
       "Surname": "RABJA",
       "ImageURL": ""
     },
@@ -389920,12 +388156,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/135013.png"
     },
     {
-      "ID": 135016,
-      "Forename": "Hugo",
-      "Surname": "FERNÁNDEZ",
-      "ImageURL": ""
-    },
-    {
       "ID": 135019,
       "Forename": "Jagoba",
       "Surname": "ZÁRRAGA",
@@ -390011,7 +388241,7 @@
     },
     {
       "ID": 135035,
-      "Forename": "David",
+      "Forename": "Davo",
       "Surname": "MARTÍNEZ",
       "ImageURL": ""
     },
@@ -391031,7 +389261,7 @@
     },
     {
       "ID": 135212,
-      "Forename": "István",
+      "Forename": "Zalán",
       "Surname": "ÁTROK",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/135212.png"
     },
@@ -398681,12 +396911,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/136522.png"
     },
     {
-      "ID": 136523,
-      "Forename": "Luca",
-      "Surname": "MERCORELLA",
-      "ImageURL": ""
-    },
-    {
       "ID": 136524,
       "Forename": "Jakob",
       "Surname": "PÁLSSON",
@@ -398798,12 +397022,6 @@
       "ID": 136547,
       "Forename": "Andrea",
       "Surname": "PILOTTO",
-      "ImageURL": ""
-    },
-    {
-      "ID": 136548,
-      "Forename": "Armir",
-      "Surname": "JAKUPI",
       "ImageURL": ""
     },
     {
@@ -399899,12 +398117,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/136744.png"
     },
     {
-      "ID": 136745,
-      "Forename": "Pep",
-      "Surname": "CABALLÉ",
-      "ImageURL": ""
-    },
-    {
       "ID": 136746,
       "Forename": "Alexandre",
       "Surname": "GRICOURT",
@@ -400847,12 +399059,6 @@
       "ImageURL": ""
     },
     {
-      "ID": 136909,
-      "Forename": "Nabil",
-      "Surname": "GHAILÁN",
-      "ImageURL": ""
-    },
-    {
       "ID": 136910,
       "Forename": "Bakary",
       "Surname": "CISSÉ",
@@ -401507,12 +399713,6 @@
       "ImageURL": ""
     },
     {
-      "ID": 137035,
-      "Forename": "Nicolas",
-      "Surname": "JANN",
-      "ImageURL": ""
-    },
-    {
       "ID": 137036,
       "Forename": "Lukas",
       "Surname": "AHREND",
@@ -401564,12 +399764,6 @@
       "ID": 137044,
       "Forename": "Aleksandr",
       "Surname": "DYACHKOV",
-      "ImageURL": ""
-    },
-    {
-      "ID": 137045,
-      "Forename": "Josema",
-      "Surname": "VIVANCOS",
       "ImageURL": ""
     },
     {
@@ -401733,12 +399927,6 @@
       "Forename": "Álex",
       "Surname": "SALA",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/137073.png"
-    },
-    {
-      "ID": 137074,
-      "Forename": "Juancho",
-      "Surname": "VILLEGAS",
-      "ImageURL": ""
     },
     {
       "ID": 137075,
@@ -401997,12 +400185,6 @@
       "Forename": "Stanislav",
       "Surname": "PUZANOV",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/137118.png"
-    },
-    {
-      "ID": 137119,
-      "Forename": "Andrés",
-      "Surname": "PALACIOS",
-      "ImageURL": ""
     },
     {
       "ID": 137120,
@@ -406333,12 +404515,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/137854.png"
     },
     {
-      "ID": 137855,
-      "Forename": "Jerry",
-      "Surname": "LAWRENCE",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/137855.png"
-    },
-    {
       "ID": 137856,
       "Forename": "Finn",
       "Surname": "DELAP",
@@ -408014,7 +406190,7 @@
     },
     {
       "ID": 138151,
-      "Forename": "Dje",
+      "Forename": "Djé",
       "Surname": "D'AVILLA",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/138151.png"
     },
@@ -409574,7 +407750,7 @@
     },
     {
       "ID": 138417,
-      "Forename": "Tariq",
+      "Forename": "Tareq",
       "Surname": "AHMED",
       "ImageURL": ""
     },
@@ -411241,12 +409417,6 @@
       "ImageURL": ""
     },
     {
-      "ID": 138712,
-      "Forename": "Benjamin",
-      "Surname": "MBOM",
-      "ImageURL": ""
-    },
-    {
       "ID": 138713,
       "Forename": "Leon",
       "Surname": "SUZUKI",
@@ -412064,7 +410234,7 @@
     },
     {
       "ID": 138865,
-      "Forename": "Miguel",
+      "Forename": "Misael",
       "Surname": "PEDROZA",
       "ImageURL": ""
     },
@@ -425211,12 +423381,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/141121.png"
     },
     {
-      "ID": 141122,
-      "Forename": "Adam",
-      "Surname": "WATSON",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/141122.png"
-    },
-    {
       "ID": 141124,
       "Forename": "Pujin",
       "Surname": "LIU",
@@ -430221,12 +428385,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/141983.png"
     },
     {
-      "ID": 141984,
-      "Forename": "Antonio",
-      "Surname": "PESCE",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/141984.png"
-    },
-    {
       "ID": 141985,
       "Forename": "Alessandro",
       "Surname": "DEBENEDETTI",
@@ -431099,7 +429257,7 @@
     {
       "ID": 142134,
       "Forename": "Marcos",
-      "Surname": "ANDRÉ",
+      "Surname": "MAIA",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/142134.png"
     },
     {
@@ -436641,12 +434799,6 @@
       "ImageURL": ""
     },
     {
-      "ID": 143069,
-      "Forename": "Nana",
-      "Surname": "OWUSU-GYIMAH",
-      "ImageURL": ""
-    },
-    {
       "ID": 143070,
       "Forename": "Iñaki",
       "Surname": "GONZÁLEZ",
@@ -438401,7 +436553,7 @@
     },
     {
       "ID": 143366,
-      "Forename": "Luke Xavier",
+      "Forename": "Luke",
       "Surname": "KEET",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/143366.png"
     },
@@ -447352,12 +445504,6 @@
       "ImageURL": ""
     },
     {
-      "ID": 144871,
-      "Forename": "Samu",
-      "Surname": "ROMÁN",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/144871.png"
-    },
-    {
       "ID": 144872,
       "Forename": "Jakub",
       "Surname": "ADKONIS",
@@ -455034,7 +453180,7 @@
     {
       "ID": 146176,
       "Forename": "Hamed",
-      "Surname": "AL-SHANQITI",
+      "Surname": "AL-SHANQITY",
       "ImageURL": ""
     },
     {
@@ -462048,7 +460194,7 @@
     {
       "ID": 147363,
       "Forename": "Arnas",
-      "Surname": "VOITINOVICIUS",
+      "Surname": "VOITINOVIČIUS",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/147363.png"
     },
     {
@@ -465041,7 +463187,7 @@
     },
     {
       "ID": 147869,
-      "Forename": "Mouhamed El Bachir",
+      "Forename": "Mouhamed",
       "Surname": "NGOM",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/147869.png"
     },
@@ -466444,22 +464590,10 @@
       "ImageURL": ""
     },
     {
-      "ID": 148107,
-      "Forename": "Jhon",
-      "Surname": "CAICEDO",
-      "ImageURL": ""
-    },
-    {
       "ID": 148108,
       "Forename": "Antony",
       "Surname": "CHÉRE",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/148108.png"
-    },
-    {
-      "ID": 148109,
-      "Forename": "Jair",
-      "Surname": "ZAMBRANO",
-      "ImageURL": ""
     },
     {
       "ID": 148110,
@@ -473488,12 +471622,6 @@
       "ImageURL": ""
     },
     {
-      "ID": 149291,
-      "Forename": "Jovan",
-      "Surname": "STANOJEVIĆ",
-      "ImageURL": ""
-    },
-    {
       "ID": 149292,
       "Forename": "Ognjen",
       "Surname": "CVETKOVIĆ",
@@ -474703,12 +472831,6 @@
       "ID": 149495,
       "Forename": "Alessio",
       "Surname": "MENATO",
-      "ImageURL": ""
-    },
-    {
-      "ID": 149496,
-      "Forename": "Luca",
-      "Surname": "AMBROSI",
       "ImageURL": ""
     },
     {
@@ -477025,7 +475147,7 @@
       "ID": 149885,
       "Forename": "Damian",
       "Surname": "VAN DER VAART",
-      "ImageURL": ""
+      "ImageURL": "https://cdn.soccerwiki.org/images/player/149885.png"
     },
     {
       "ID": 149886,
@@ -478198,12 +476320,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/150082.png"
     },
     {
-      "ID": 150083,
-      "Forename": "Marcus",
-      "Surname": "LAWRENCE",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/150083.png"
-    },
-    {
       "ID": 150084,
       "Forename": "Jack",
       "Surname": "MOORHOUSE",
@@ -478414,12 +476530,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/150118.png"
     },
     {
-      "ID": 150119,
-      "Forename": "Will",
-      "Surname": "BROWN",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/150119.png"
-    },
-    {
       "ID": 150120,
       "Forename": "Jordan",
       "Surname": "HACKETT",
@@ -478571,7 +476681,7 @@
     },
     {
       "ID": 150149,
-      "Forename": "Seb",
+      "Forename": "Sebastian",
       "Surname": "FERDINAND",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/150149.png"
     },
@@ -490378,12 +488488,6 @@
       "ImageURL": ""
     },
     {
-      "ID": 152125,
-      "Forename": "Karl",
-      "Surname": "PISCHON",
-      "ImageURL": ""
-    },
-    {
       "ID": 152126,
       "Forename": "Edgar",
       "Surname": "KAIZER",
@@ -490925,7 +489029,7 @@
     },
     {
       "ID": 152216,
-      "Forename": "Altar Han",
+      "Forename": "Altar",
       "Surname": "HIDAYETOĞLU",
       "ImageURL": ""
     },
@@ -492464,12 +490568,6 @@
       "Forename": "Lucas",
       "Surname": "SANT",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/152475.png"
-    },
-    {
-      "ID": 152476,
-      "Forename": "Nathan",
-      "Surname": "ROBINSON",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/152476.png"
     },
     {
       "ID": 152477,
@@ -495982,12 +494080,6 @@
       "ImageURL": ""
     },
     {
-      "ID": 153066,
-      "Forename": "Duccio",
-      "Surname": "TOCCAFONDI",
-      "ImageURL": ""
-    },
-    {
       "ID": 153067,
       "Forename": "Mattia",
       "Surname": "ANGELONI",
@@ -496306,12 +494398,6 @@
       "ImageURL": ""
     },
     {
-      "ID": 153120,
-      "Forename": "Albert",
-      "Surname": "KWETSHU",
-      "ImageURL": ""
-    },
-    {
       "ID": 153121,
       "Forename": "Simone",
       "Surname": "FORMOSA",
@@ -496381,18 +494467,6 @@
       "ID": 153132,
       "Forename": "Riccardo",
       "Surname": "BIGNAMI",
-      "ImageURL": ""
-    },
-    {
-      "ID": 153133,
-      "Forename": "Gabriele",
-      "Surname": "TACCHINARDI",
-      "ImageURL": ""
-    },
-    {
-      "ID": 153134,
-      "Forename": "Riccardo",
-      "Surname": "BOZZUTO",
       "ImageURL": ""
     },
     {
@@ -496490,12 +494564,6 @@
       "Forename": "Oresti",
       "Surname": "RIFA",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/153150.png"
-    },
-    {
-      "ID": 153151,
-      "Forename": "Riccardo",
-      "Surname": "CERANTOLA",
-      "ImageURL": ""
     },
     {
       "ID": 153152,
@@ -497914,12 +495982,6 @@
       "ImageURL": ""
     },
     {
-      "ID": 153390,
-      "Forename": "Matteo",
-      "Surname": "BONAVITA",
-      "ImageURL": ""
-    },
-    {
       "ID": 153391,
       "Forename": "Alessandro",
       "Surname": "ZHUPA",
@@ -498133,12 +496195,6 @@
       "ID": 153426,
       "Forename": "Angelo",
       "Surname": "FORESTA",
-      "ImageURL": ""
-    },
-    {
-      "ID": 153427,
-      "Forename": "Mattia",
-      "Surname": "GULLI",
       "ImageURL": ""
     },
     {
@@ -500884,12 +498940,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/153887.png"
     },
     {
-      "ID": 153888,
-      "Forename": "Enrique",
-      "Surname": "BÖSL",
-      "ImageURL": ""
-    },
-    {
       "ID": 153889,
       "Forename": "Omar",
       "Surname": "DE LA CRUZ",
@@ -502368,7 +500418,7 @@
     {
       "ID": 154135,
       "Forename": "Gideon",
-      "Surname": "UCHE GOODLAD",
+      "Surname": "GOODLAD",
       "ImageURL": ""
     },
     {
@@ -503693,7 +501743,7 @@
     },
     {
       "ID": 154358,
-      "Forename": "Nicolò",
+      "Forename": "Niccolò",
       "Surname": "POSTIGLIONE",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/154358.png"
     },
@@ -504074,12 +502124,6 @@
       "ID": 154421,
       "Forename": "Simone",
       "Surname": "MERCORELLI",
-      "ImageURL": ""
-    },
-    {
-      "ID": 154422,
-      "Forename": "Mattia",
-      "Surname": "FOGLIA",
       "ImageURL": ""
     },
     {
@@ -508061,12 +506105,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/155087.png"
     },
     {
-      "ID": 155088,
-      "Forename": "Nico",
-      "Surname": "SELVAGGIO",
-      "ImageURL": ""
-    },
-    {
       "ID": 155089,
       "Forename": "Filip",
       "Surname": "ÖHMAN",
@@ -509373,12 +507411,6 @@
       "Forename": "Rhodri",
       "Surname": "SMITH",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/155306.png"
-    },
-    {
-      "ID": 155307,
-      "Forename": "Pau",
-      "Surname": "FUNALLET",
-      "ImageURL": ""
     },
     {
       "ID": 155308,
@@ -511718,7 +509750,7 @@
     {
       "ID": 155697,
       "Forename": "Dimitrije",
-      "Surname": "MINIC",
+      "Surname": "MINIĆ",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/155697.png"
     },
     {
@@ -513498,12 +511530,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/155993.png"
     },
     {
-      "ID": 155994,
-      "Forename": "Aleksa",
-      "Surname": "FILIPOVIC",
-      "ImageURL": ""
-    },
-    {
       "ID": 155995,
       "Forename": "Michael",
       "Surname": "MCILRAVEY",
@@ -514592,7 +512618,7 @@
     {
       "ID": 156176,
       "Forename": "Vladimir",
-      "Surname": "RAKIC",
+      "Surname": "RAKIĆ",
       "ImageURL": ""
     },
     {
@@ -515229,12 +513255,6 @@
       "ID": 156282,
       "Forename": "Chafik",
       "Surname": "GOURICHY",
-      "ImageURL": ""
-    },
-    {
-      "ID": 156283,
-      "Forename": "David",
-      "Surname": "MUTTER",
       "ImageURL": ""
     },
     {
@@ -518558,7 +516578,7 @@
     },
     {
       "ID": 156846,
-      "Forename": "Jhonier",
+      "Forename": "Jhomier",
       "Surname": "GUERRERO",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/156846.png"
     },
@@ -532676,12 +530696,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/159205.png"
     },
     {
-      "ID": 159206,
-      "Forename": "Igor",
-      "Surname": "RYPNOVSKYI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/159206.png"
-    },
-    {
       "ID": 159207,
       "Forename": "Andriy",
       "Surname": "DEMYDENKO",
@@ -542420,12 +540434,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/160830.png"
     },
     {
-      "ID": 160831,
-      "Forename": "Igor",
-      "Surname": "NAKONECHNYI",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/160831.png"
-    },
-    {
       "ID": 160832,
       "Forename": "Vladyslav",
       "Surname": "LYUBKO",
@@ -542901,7 +540909,7 @@
     },
     {
       "ID": 160911,
-      "Forename": "Nico",
+      "Forename": "Nicolas",
       "Surname": "HANSEN",
       "ImageURL": "https://cdn.soccerwiki.org/images/player/160911.png"
     },
@@ -545552,12 +543560,6 @@
       "ImageURL": "https://cdn.soccerwiki.org/images/player/161353.png"
     },
     {
-      "ID": 161354,
-      "Forename": "Oleksiy",
-      "Surname": "DRAGAN",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/161354.png"
-    },
-    {
       "ID": 161355,
       "Forename": "Ivan",
       "Surname": "MYKHAYLENKO",
@@ -546418,7 +544420,7 @@
     {
       "ID": 161498,
       "Forename": "Diego",
-      "Surname": "CASTEL BRANCO",
+      "Surname": "CASTEL-BRANCO",
       "ImageURL": ""
     },
     {
@@ -546834,12 +544836,6 @@
       "Forename": "Yulwuis",
       "Surname": "PÉREZ",
       "ImageURL": ""
-    },
-    {
-      "ID": 161568,
-      "Forename": "Issa Jean",
-      "Surname": "SANE",
-      "ImageURL": "https://cdn.soccerwiki.org/images/player/161568.png"
     },
     {
       "ID": 161569,
@@ -571655,7 +569651,7 @@
     {
       "ID": 165708,
       "Forename": "Nikola",
-      "Surname": "OBUCINA",
+      "Surname": "OBUĆINA",
       "ImageURL": ""
     },
     {
@@ -582660,7 +580656,7 @@
       "ID": 167542,
       "Forename": "Jaël",
       "Surname": "PAWIRODIHARDJO",
-      "ImageURL": ""
+      "ImageURL": "https://cdn.soccerwiki.org/images/player/167542.png"
     },
     {
       "ID": 167543,
@@ -583290,7 +581286,7 @@
       "ID": 167647,
       "Forename": "Kennynho",
       "Surname": "KASANWIRJO",
-      "ImageURL": ""
+      "ImageURL": "https://cdn.soccerwiki.org/images/player/167647.png"
     },
     {
       "ID": 167648,
@@ -602596,7 +600592,7 @@
     },
     {
       "ID": 170865,
-      "Forename": "Abdoul Rahim",
+      "Forename": "Abdoul",
       "Surname": "SAWADOGO",
       "ImageURL": ""
     },
@@ -622427,7 +620423,7 @@
     {
       "ID": 174170,
       "Forename": "Mezian",
-      "Surname": "SOARES",
+      "Surname": "MESLOUB",
       "ImageURL": ""
     },
     {
@@ -633354,13 +631350,13 @@
       "ID": 175991,
       "Forename": "Vinicius",
       "Surname": "FABRI",
-      "ImageURL": ""
+      "ImageURL": "https://cdn.soccerwiki.org/images/player/175991.png"
     },
     {
       "ID": 175992,
       "Forename": "Posse",
       "Surname": "BENÍCIO",
-      "ImageURL": ""
+      "ImageURL": "https://cdn.soccerwiki.org/images/player/175992.png"
     },
     {
       "ID": 175993,
@@ -633444,7 +631440,7 @@
       "ID": 176006,
       "Forename": "João",
       "Surname": "ALENCAR",
-      "ImageURL": ""
+      "ImageURL": "https://cdn.soccerwiki.org/images/player/176006.png"
     },
     {
       "ID": 176007,
@@ -633456,7 +631452,7 @@
       "ID": 176008,
       "Forename": "Davi",
       "Surname": "FERNANDES",
-      "ImageURL": ""
+      "ImageURL": "https://cdn.soccerwiki.org/images/player/176008.png"
     },
     {
       "ID": 176009,
@@ -633918,6 +631914,1164 @@
       "ID": 176085,
       "Forename": "Alexander",
       "Surname": "RODRÍGUEZ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176086,
+      "Forename": "Emerson",
+      "Surname": "MANCÍA",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176087,
+      "Forename": "Juan Ángel",
+      "Surname": "BENÍTEZ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176088,
+      "Forename": "Kevin",
+      "Surname": "OVIEDO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176089,
+      "Forename": "Eduardo",
+      "Surname": "CHÁVEZ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176090,
+      "Forename": "Joshua",
+      "Surname": "GALLARDO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176091,
+      "Forename": "Carlos",
+      "Surname": "MARTÍNEZ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176092,
+      "Forename": "Shuyi",
+      "Surname": "ZHAO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176093,
+      "Forename": "Yang",
+      "Surname": "YANG",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176094,
+      "Forename": "Li'ao",
+      "Surname": "ZHANG",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176095,
+      "Forename": "Shilin",
+      "Surname": "WANG",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176096,
+      "Forename": "Tianle",
+      "Surname": "CHENG",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176097,
+      "Forename": "Jiaxi",
+      "Surname": "YIN",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176098,
+      "Forename": "Wentao",
+      "Surname": "ZHOU",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176099,
+      "Forename": "Demi",
+      "Surname": "AKARAKIRI",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176100,
+      "Forename": "Dongcheng",
+      "Surname": "WANG",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176101,
+      "Forename": "Ruilong",
+      "Surname": "LI",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176102,
+      "Forename": "Zhezhe",
+      "Surname": "CAO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176103,
+      "Forename": "Junxiang",
+      "Surname": "WEN",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176104,
+      "Forename": "Junjie",
+      "Surname": "ZHANG",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176105,
+      "Forename": "Juncheng",
+      "Surname": "CUI",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176106,
+      "Forename": "Hanqi",
+      "Surname": "LIN",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176107,
+      "Forename": "Size",
+      "Surname": "WANG",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176108,
+      "Forename": "Xi",
+      "Surname": "CHENG",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176109,
+      "Forename": "Mingyang",
+      "Surname": "MA",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176110,
+      "Forename": "Tianai",
+      "Surname": "WANG",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176111,
+      "Forename": "Jiahui",
+      "Surname": "RONG",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176112,
+      "Forename": "Shuaiqi",
+      "Surname": "LI",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176113,
+      "Forename": "Veysel",
+      "Surname": "SONMEZSOY",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176114,
+      "Forename": "Alex",
+      "Surname": "TVERDOHLEBOV",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176115,
+      "Forename": "João",
+      "Surname": "RIJO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176116,
+      "Forename": "Frederico",
+      "Surname": "GOMES",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176117,
+      "Forename": "José",
+      "Surname": "GARRAFA",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176118,
+      "Forename": "García",
+      "Surname": "ÁLVARO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176119,
+      "Forename": "Nemanja",
+      "Surname": "ZARIĆ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176120,
+      "Forename": "Catarino",
+      "Surname": "PASCOAL",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176121,
+      "Forename": "Thierry",
+      "Surname": "KARADENIZ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176122,
+      "Forename": "Kuanjie",
+      "Surname": "JING",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176123,
+      "Forename": "Chaohui",
+      "Surname": "WANG",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176124,
+      "Forename": "Hanyang",
+      "Surname": "CHEN",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176125,
+      "Forename": "Minghao",
+      "Surname": "REN",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176126,
+      "Forename": "Afonso",
+      "Surname": "SOUSA",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176127,
+      "Forename": "Samu",
+      "Surname": "SOUSA",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176128,
+      "Forename": "Chrystopher",
+      "Surname": "ANDRADE",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176129,
+      "Forename": "Victor",
+      "Surname": "THIAGO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176130,
+      "Forename": "Henry",
+      "Surname": "ENDREW",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176131,
+      "Forename": "Jonas",
+      "Surname": "FERREIRA",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176132,
+      "Forename": "Miguel",
+      "Surname": "GALEANO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176133,
+      "Forename": "Enzo",
+      "Surname": "BARROS",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176134,
+      "Forename": "Miguel",
+      "Surname": "SILVA",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176135,
+      "Forename": "Paolo",
+      "Surname": "SOUSA",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176136,
+      "Forename": "Tiago",
+      "Surname": "GONÇALVES",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176137,
+      "Forename": "Guilherme",
+      "Surname": "FREITAS",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176138,
+      "Forename": "Tiago",
+      "Surname": "COUTEIRO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176139,
+      "Forename": "David",
+      "Surname": "MENDONÇA",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176140,
+      "Forename": "Max",
+      "Surname": "WEINSTEIN",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176141,
+      "Forename": "Bruno",
+      "Surname": "SANTOS",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176142,
+      "Forename": "Estevão",
+      "Surname": "SPENCER",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176143,
+      "Forename": "Ricardo",
+      "Surname": "MARTINS",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176144,
+      "Forename": "João",
+      "Surname": "SALVADOR",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176145,
+      "Forename": "Samuel",
+      "Surname": "MARTÍNEZ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176146,
+      "Forename": "Ziquan",
+      "Surname": "WANG",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176147,
+      "Forename": "Ziyu",
+      "Surname": "HU",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176148,
+      "Forename": "Tadhg",
+      "Surname": "PRIZEMAN",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176149,
+      "Forename": "Danny",
+      "Surname": "BURKE",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176150,
+      "Forename": "Charlie",
+      "Surname": "NOLAN",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176151,
+      "Forename": "Jayden",
+      "Surname": "MARSHALL",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176152,
+      "Forename": "Rian",
+      "Surname": "ENNIS",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176153,
+      "Forename": "Joel",
+      "Surname": "MCPHAIL",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176154,
+      "Forename": "Ivan",
+      "Surname": "GRAMINSCHII",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176155,
+      "Forename": "Kimson",
+      "Surname": "KIBAGA",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176156,
+      "Forename": "Jason",
+      "Surname": "SPELMAN",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176157,
+      "Forename": "Kian",
+      "Surname": "QUIGLEY",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176158,
+      "Forename": "Devereux Lynch",
+      "Surname": "DEVEREUX LYNCH",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176159,
+      "Forename": "Luke",
+      "Surname": "ROSSI",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176160,
+      "Forename": "Curtis",
+      "Surname": "EGAN",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176161,
+      "Forename": "Aaron",
+      "Surname": "CULLETON",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176162,
+      "Forename": "Mario",
+      "Surname": "OMOZEE",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176163,
+      "Forename": "Patrick",
+      "Surname": "BRIDES",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176164,
+      "Forename": "Gheorghe",
+      "Surname": "MOSNEAGU",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176165,
+      "Forename": "Kevin",
+      "Surname": "MADU",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176166,
+      "Forename": "Oisin",
+      "Surname": "O'BRIEN",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176167,
+      "Forename": "Caolan",
+      "Surname": "O'DONNELL",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176168,
+      "Forename": "Jamie",
+      "Surname": "BRENNAN",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176169,
+      "Forename": "Calum",
+      "Surname": "DONNELLY",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176170,
+      "Forename": "Sean",
+      "Surname": "MCGRATH",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176171,
+      "Forename": "Conor",
+      "Surname": "GLEESON",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176172,
+      "Forename": "Jordan",
+      "Surname": "VOCELLA",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176173,
+      "Forename": "Caelan",
+      "Surname": "O'BRIEN",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176174,
+      "Forename": "Nnamdi",
+      "Surname": "NNAJI",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176175,
+      "Forename": "Caimin",
+      "Surname": "MURPHY",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176176,
+      "Forename": "Patrick",
+      "Surname": "IBIKUNLE",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176177,
+      "Forename": "Tunde",
+      "Surname": "ANUNLOPO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176178,
+      "Forename": "Shayne",
+      "Surname": "MCDONALD",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176179,
+      "Forename": "Goforth",
+      "Surname": "AMEDU",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176180,
+      "Forename": "Fidel",
+      "Surname": "PULULU",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176181,
+      "Forename": "Jan",
+      "Surname": "WOZNIAK",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176182,
+      "Forename": "Aires",
+      "Surname": "NANQUE",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176183,
+      "Forename": "Danilo",
+      "Surname": "KARANOVIĆ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176184,
+      "Forename": "Luka",
+      "Surname": "BANOVIĆ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176185,
+      "Forename": "Edson",
+      "Surname": "KAUÃ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176186,
+      "Forename": "Onur",
+      "Surname": "INAN",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176187,
+      "Forename": "Cristo",
+      "Surname": "FERNÁNDEZ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176188,
+      "Forename": "Mikdat",
+      "Surname": "CIL",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176189,
+      "Forename": "Arda",
+      "Surname": "OZYAR",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176190,
+      "Forename": "Yusuf",
+      "Surname": "DELEN",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176191,
+      "Forename": "Sercan",
+      "Surname": "DENIZ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176192,
+      "Forename": "Filip",
+      "Surname": "HOLJEVAC",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176193,
+      "Forename": "Paul",
+      "Surname": "VRANJIČIĆ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176194,
+      "Forename": "Nikica",
+      "Surname": "PERANOVIĆ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176195,
+      "Forename": "Patrik",
+      "Surname": "TURKOVIĆ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176196,
+      "Forename": "Sadriddin",
+      "Surname": "KHASANOV",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176197,
+      "Forename": "Assane",
+      "Surname": "OUEDRAOGO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176198,
+      "Forename": "Vojin",
+      "Surname": "MARINKOVIĆ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176199,
+      "Forename": "Viktor",
+      "Surname": "ZIVADINOVIĆ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176200,
+      "Forename": "Strahinja",
+      "Surname": "BORISAVLJEVIC",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176201,
+      "Forename": "Marko",
+      "Surname": "IVANOVIĆ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176202,
+      "Forename": "Novak",
+      "Surname": "PETRUŠIĆ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176203,
+      "Forename": "Luka",
+      "Surname": "LACMANOVIĆ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176204,
+      "Forename": "Djordje",
+      "Surname": "DJORDJIĆ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176205,
+      "Forename": "Ruben",
+      "Surname": "COMPAORÉ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176206,
+      "Forename": "Nikola",
+      "Surname": "POPOVIĆ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176207,
+      "Forename": "Vanja",
+      "Surname": "DJORDJEVIĆ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176208,
+      "Forename": "Danilo",
+      "Surname": "BULATOVIĆ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176209,
+      "Forename": "Luka",
+      "Surname": "SANDULOVIĆ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176210,
+      "Forename": "Marko",
+      "Surname": "PAVIĆ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176211,
+      "Forename": "Ognjen",
+      "Surname": "PILIĆ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176212,
+      "Forename": "Andrej",
+      "Surname": "PIVAŠ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176213,
+      "Forename": "Dario",
+      "Surname": "JANJIĆ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176214,
+      "Forename": "Srdjan",
+      "Surname": "BAŠIĆ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176215,
+      "Forename": "Nemanja",
+      "Surname": "MILUNOVIĆ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176216,
+      "Forename": "Andrej",
+      "Surname": "DRINCIĆ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176217,
+      "Forename": "Lucas",
+      "Surname": "EMANUEL",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176218,
+      "Forename": "Berkay",
+      "Surname": "ARI",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176219,
+      "Forename": "Martim",
+      "Surname": "DUARTE",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176220,
+      "Forename": "Si-Hoo",
+      "Surname": "PARK",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176221,
+      "Forename": "Polat",
+      "Surname": "ABAY",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176222,
+      "Forename": "Semih",
+      "Surname": "AKYILDIZ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176223,
+      "Forename": "Nicolae",
+      "Surname": "PIRVULESCU",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176224,
+      "Forename": "Adrian",
+      "Surname": "FRANCULESCU",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176225,
+      "Forename": "Abdulelah",
+      "Surname": "AL-JAAFARI",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176226,
+      "Forename": "Hassan",
+      "Surname": "AL-HARBI",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176227,
+      "Forename": "Yassen",
+      "Surname": "BARNAWI",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176228,
+      "Forename": "Khalid",
+      "Surname": "AL-HARBI",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176229,
+      "Forename": "Ilias",
+      "Surname": "MOYSIDIS",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176230,
+      "Forename": "Pavlos",
+      "Surname": "VARELAS",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176231,
+      "Forename": "Savvas",
+      "Surname": "MOUZAKIS",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176232,
+      "Forename": "Francis",
+      "Surname": "OKOLI",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176233,
+      "Forename": "Hélder",
+      "Surname": "PEDRO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176234,
+      "Forename": "Mica",
+      "Surname": "FERREIRA",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176235,
+      "Forename": "Diogo",
+      "Surname": "VILA",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176236,
+      "Forename": "Armando",
+      "Surname": "SILVA",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176237,
+      "Forename": "Cebrail",
+      "Surname": "IRTÜRK",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176238,
+      "Forename": "Maalik",
+      "Surname": "HASHI",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176239,
+      "Forename": "Kerem",
+      "Surname": "MATISLI",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176240,
+      "Forename": "Raymond",
+      "Surname": "DIOUF",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176241,
+      "Forename": "Abdoul",
+      "Surname": "DIOP",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176242,
+      "Forename": "Vladyslav",
+      "Surname": "SKITSKO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176243,
+      "Forename": "Rafael",
+      "Surname": "FLORES",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176244,
+      "Forename": "Rúben",
+      "Surname": "PINTO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176245,
+      "Forename": "Feliciano",
+      "Surname": "MENDES",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176246,
+      "Forename": "João",
+      "Surname": "FILIPE",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176247,
+      "Forename": "Samuel",
+      "Surname": "VIVAS",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176248,
+      "Forename": "Diogo",
+      "Surname": "NASCIMENTO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176249,
+      "Forename": "Eduardo",
+      "Surname": "AGUIAR",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176250,
+      "Forename": "Obama",
+      "Surname": "RIBEIRO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176251,
+      "Forename": "Rúben",
+      "Surname": "SILVA",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176252,
+      "Forename": "Harruna",
+      "Surname": "IDDRISS",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176253,
+      "Forename": "Brayden",
+      "Surname": "JOHNSON",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176254,
+      "Forename": "Ols",
+      "Surname": "BACKHAUS",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176255,
+      "Forename": "Noah",
+      "Surname": "LORCH",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176256,
+      "Forename": "Gonçalo",
+      "Surname": "SOUSA",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176257,
+      "Forename": "Marcelo",
+      "Surname": "CUNHA",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176258,
+      "Forename": "Tiago",
+      "Surname": "ANTUNES",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176259,
+      "Forename": "Tiago",
+      "Surname": "VENTURA",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176260,
+      "Forename": "Francisco",
+      "Surname": "CARDOSO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176261,
+      "Forename": "Roger",
+      "Surname": "ALMEIDA",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176262,
+      "Forename": "Anil",
+      "Surname": "ATAG",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176263,
+      "Forename": "Salih Efe",
+      "Surname": "FIDAN",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176264,
+      "Forename": "Emir",
+      "Surname": "KAYACIK",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176265,
+      "Forename": "Talha",
+      "Surname": "YUNKUS",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176266,
+      "Forename": "Eyup",
+      "Surname": "AKCAN",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176267,
+      "Forename": "Hakan",
+      "Surname": "ATIS",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176268,
+      "Forename": "Mehmet",
+      "Surname": "TURAN",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176269,
+      "Forename": "Yusuf",
+      "Surname": "BAKIR",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176270,
+      "Forename": "Devran",
+      "Surname": "BOZARDIÇ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176271,
+      "Forename": "Muhammed Duha",
+      "Surname": "AYDIN",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176272,
+      "Forename": "Semih Kaan",
+      "Surname": "TOKER",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176273,
+      "Forename": "Furkan",
+      "Surname": "RÜZGAR",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176274,
+      "Forename": "Karan",
+      "Surname": "TOPDEMIR",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176275,
+      "Forename": "Emir",
+      "Surname": "KIREÇÇI",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176276,
+      "Forename": "Arda Kemal",
+      "Surname": "GÜLMEZ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176277,
+      "Forename": "Ömer",
+      "Surname": "KARSLIOGLU",
+      "ImageURL": ""
+    },
+    {
+      "ID": 176278,
+      "Forename": "Vural",
+      "Surname": "ALTAN",
       "ImageURL": ""
     }
   ],
@@ -635642,7 +634796,7 @@
       "ID": 287,
       "Name": "Athletico Paranaense",
       "ShortName": "CAP",
-      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Club_Athletico_Paranaense_Soccer_Wiki.png"
+      "ImageURL": "https://cdn.soccerwiki.org/images/logos/clubs/287.png"
     },
     {
       "ID": 288,
@@ -635666,7 +634820,7 @@
       "ID": 291,
       "Name": "Coritiba",
       "ShortName": "CFC",
-      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Coritiba_Foot_Ball_Club_Soccer_Wiki.png"
+      "ImageURL": "https://cdn.soccerwiki.org/images/logos/clubs/291.png"
     },
     {
       "ID": 292,
@@ -635725,8 +634879,8 @@
     {
       "ID": 301,
       "Name": "Grêmio Curitiba",
-      "ShortName": "GRE",
-      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/4/46/Gr%C3%AAmio_Foot_Ball_Curitiba_Soccer_Wiki.png"
+      "ShortName": "GFC",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/4/46/Gr%C3%AAmio_Foot_Ball_Curitiba_Soccer_Wiki.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
     },
     {
       "ID": 302,
@@ -636295,7 +635449,7 @@
     {
       "ID": 396,
       "Name": "Energie Cottbus",
-      "ShortName": "ENE",
+      "ShortName": "FCE",
       "ImageURL": "https://cdn.soccerwiki.org/images/logos/clubs/396.png"
     },
     {
@@ -637045,7 +636199,7 @@
     {
       "ID": 527,
       "Name": "Kawasaki Frontale",
-      "ShortName": "KAW",
+      "ShortName": "KWF",
       "ImageURL": "https://cdn.soccerwiki.org/images/logos/clubs/527.png"
     },
     {
@@ -641425,7 +640579,7 @@
     {
       "ID": 1266,
       "Name": "Tokyo Verdy",
-      "ShortName": "TOK",
+      "ShortName": "TKV",
       "ImageURL": "https://cdn.soccerwiki.org/images/logos/clubs/1266.png"
     },
     {
@@ -649387,7 +648541,7 @@
     {
       "ID": 2628,
       "Name": "FK Radnik Surdulica",
-      "ShortName": "FRS",
+      "ShortName": "RAD",
       "ImageURL": "https://cdn.soccerwiki.org/images/logos/clubs/2628.png"
     },
     {
@@ -652027,7 +651181,7 @@
     {
       "ID": 3068,
       "Name": "Corvinul Hunedoara",
-      "ShortName": "Hun",
+      "ShortName": "CRV",
       "ImageURL": "https://cdn.soccerwiki.org/images/logos/clubs/3068.png"
     },
     {
@@ -654462,8 +653616,8 @@
     },
     {
       "ID": 3474,
-      "Name": "GD Vit. Sernache",
-      "ShortName": "VS",
+      "Name": "GD Vitória Sernache",
+      "ShortName": "SER",
       "ImageURL": "https://cdn.soccerwiki.org/images/logos/clubs/3474.jpg"
     },
     {
@@ -655044,7 +654198,7 @@
     },
     {
       "ID": 3571,
-      "Name": "PAE Kalamata",
+      "Name": "Kalamata FC",
       "ShortName": "KAL",
       "ImageURL": "https://cdn.soccerwiki.org/images/logos/clubs/3571.png"
     },
@@ -658248,7 +657402,7 @@
     },
     {
       "ID": 4105,
-      "Name": "AFC Hornchurch",
+      "Name": "Hornchurch",
       "ShortName": "HOR",
       "ImageURL": "https://cdn.soccerwiki.org/images/logos/clubs/4105.png"
     },
@@ -672942,7 +672096,7 @@
     },
     {
       "ID": 6554,
-      "Name": "Al Diraiyah",
+      "Name": "Diriyah Club",
       "ShortName": "DIR",
       "ImageURL": "https://cdn.soccerwiki.org/images/logos/clubs/6554.png"
     },
@@ -676334,6 +675488,12 @@
       "ID": 7119,
       "Name": "Maricá FC",
       "ShortName": "MAR",
+      "ImageURL": ""
+    },
+    {
+      "ID": 7120,
+      "Name": "Cetatea Suceava",
+      "ShortName": "CET",
       "ImageURL": ""
     }
   ],
@@ -712327,7 +711487,7 @@
     {
       "ID": 1869,
       "Forename": "Osmar",
-      "Surname": "Vieira",
+      "Surname": "LOSS",
       "ImageURL": "https://cdn.soccerwiki.org/images/manager/1869.jpg"
     },
     {
@@ -776443,7 +775603,7 @@
     {
       "ID": 13625,
       "Forename": "René",
-      "Surname": "Hinojosa",
+      "Surname": "HINOJOSA",
       "ImageURL": ""
     },
     {
@@ -777691,7 +776851,7 @@
     {
       "ID": 13833,
       "Forename": "Francesco",
-      "Surname": "Bolzoni",
+      "Surname": "BOLZONI",
       "ImageURL": ""
     },
     {
@@ -777703,7 +776863,7 @@
     {
       "ID": 13835,
       "Forename": "Geppino",
-      "Surname": "Marino",
+      "Surname": "MARINO",
       "ImageURL": ""
     },
     {
@@ -777823,7 +776983,7 @@
     {
       "ID": 13855,
       "Forename": "Fabio",
-      "Surname": "Nisticò",
+      "Surname": "NISTICÒ",
       "ImageURL": ""
     },
     {
@@ -778190,6 +777350,216 @@
       "ID": 13916,
       "Forename": "Nemanja",
       "Surname": "Glusica",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13917,
+      "Forename": "Marko",
+      "Surname": "Nedjic",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13918,
+      "Forename": "Nicolas",
+      "Surname": "LEMÉTAYER",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13919,
+      "Forename": "Paolo",
+      "Surname": "SAMMARCO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13920,
+      "Forename": "Matt",
+      "Surname": "WELLS",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13921,
+      "Forename": "Volodymyr",
+      "Surname": "ROMANENKO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13922,
+      "Forename": "Igor",
+      "Surname": "TYMCHENKO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13923,
+      "Forename": "Oleksandr",
+      "Surname": "MAKSYMOV",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13924,
+      "Forename": "Artem",
+      "Surname": "STARGORODSKYI",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13925,
+      "Forename": "Vasyl",
+      "Surname": "YATSURAK",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13926,
+      "Forename": "Rémi",
+      "Surname": "SOUYEUX",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13927,
+      "Forename": "Mohamed",
+      "Surname": "AKKI",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13928,
+      "Forename": "Claudio",
+      "Surname": "LOZANO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13929,
+      "Forename": "Francisco",
+      "Surname": "USÚCAR",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13930,
+      "Forename": "Javier",
+      "Surname": "CHIRINOS",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13931,
+      "Forename": "Edgar",
+      "Surname": "VILLAMARÍN",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13932,
+      "Forename": "Angel",
+      "Surname": "VENEGAS",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13933,
+      "Forename": "Salomón",
+      "Surname": "LIBMAN",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13934,
+      "Forename": "Alessio",
+      "Surname": "GAMBIRASIO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13935,
+      "Forename": "Mauro",
+      "Surname": "ZIRONELLI",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13936,
+      "Forename": "Igor",
+      "Surname": "TOLIĆ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13937,
+      "Forename": "Mauro",
+      "Surname": "JERÓNIMO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13938,
+      "Forename": "Eko",
+      "Surname": "PURJIANTO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13939,
+      "Forename": "Ricky",
+      "Surname": "NELSON",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13940,
+      "Forename": "Bima",
+      "Surname": "SAKTI",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13941,
+      "Forename": "Leonard",
+      "Surname": "TUPAMAHU",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13942,
+      "Forename": "Víctor",
+      "Surname": "BALTA",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13943,
+      "Forename": "Pablo",
+      "Surname": "ZEGARRA",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13944,
+      "Forename": "Matteo",
+      "Surname": "PASTORINO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13945,
+      "Forename": "Salvatore",
+      "Surname": "FOTI",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13946,
+      "Forename": "Hartono kencana",
+      "Surname": "HARMONI",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13947,
+      "Forename": "Gwi-jae",
+      "Surname": "Jo",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13948,
+      "Forename": "Antonio",
+      "Surname": "GIOSA",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13949,
+      "Forename": "Panagiotis",
+      "Surname": "Christofileas",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13950,
+      "Forename": "Riccardo",
+      "Surname": "BOSCHETTO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13951,
+      "Forename": "Selçuk",
+      "Surname": "ŞAHIN",
       "ImageURL": ""
     }
   ],
